@@ -1,0 +1,940 @@
+MPN	SE_NAME	COM_PARTNUM	SE_SUPPLIER	MAN_ID	COM_ID	Scrubbing_Status
+TY1200-175X	"ABB Installation Products, Inc"	TY1200-175X	ABB	1006	60882580	Direct Match Corrected supplier
+TY400-120-ANTI	"ABB Installation Products, Inc"	TY400-120-ANTI	ABB	1006	422361404	Direct Match Corrected supplier
+CPH3225A	ABLIC Inc	CPH3225A	Seiko Instruments Inc	55324	50605845	Direct Match Corrected supplier
+MS414GE	ABLIC Inc	MS414GE	Seiko Instruments Inc	55324	418235913	Direct Match Corrected supplier
+MS920SE	ABLIC Inc	MS920SE	Seiko Instruments Inc	55324	418235916	Direct Match Corrected supplier
+SC16S-9PF20PPM	ABLIC Inc	SC16S-9PF20PPM	Seiko Instruments Inc	55324	408501641	Direct Match Corrected supplier
+SC20S-9PF20PPM	ABLIC Inc	SC20S-9PF20PPM	Seiko Instruments Inc	55324	408501638	Direct Match Corrected supplier
+SR41W	ABLIC Inc	SR41W	Seiko Instruments Inc	55324	408015766	Direct Match Corrected supplier
+TS621E	ABLIC Inc	TS621E	Seiko Instruments Inc	55324	418235918	Direct Match Corrected supplier
+M29W640GB7AN6E	Alliance Memory	M29W640GB7AN6E	Micron Technology	1416	60984851	Need Scrubbing
+M29W320DB7AZA6F	Alliance Memory	M29W320DB7AZA6F	Micron Technology	1416	42218843	Need Scrubbing
+M29W128GH70N3E	Alliance Memory	M29W128GH70N3E	Micron Technology	1416	41519580	Need Scrubbing
+M45PE20-VMN6P	Alliance Memory	M45PE20-VMN6P	Micron Technology	1416	33538281	Need Scrubbing
+M45PE20-VMN6P	Alliance Memory	M45PE20-VMN6P	STMicroelectronics	1579	19068531	Need Scrubbing
+N25Q064A13EF8H0E	Alliance Memory	N25Q064A13EF8H0E	Micron Technology	1416	61052951	Need Scrubbing
+N25Q064A13ESFA0F	Alliance Memory	N25Q064A13ESFA0F	Micron Technology	1416	51619432	Need Scrubbing
+N25Q032A13EF640F	Alliance Memory	N25Q032A13EF640F	Micron Technology	1416	43158795	Need Scrubbing
+N25Q032A13ESC40G	Alliance Memory	N25Q032A13ESC40G	Micron Technology	1416	43158799	Need Scrubbing
+N25Q032A13ESFA0F	Alliance Memory	N25Q032A13ESFA0F	Micron Technology	1416	51550405	Need Scrubbing
+N25Q064A13EF640E	Alliance Memory	N25Q064A13EF640E	Micron Technology	1416	43710722	Need Scrubbing
+M29F160FT55N3E2	Alliance Memory	M29F160FT55N3E2	Micron Technology	1416	41519521	Need Scrubbing
+M29F400FB55N3E2	Alliance Memory	M29F400FB55N3E2	Micron Technology	1416	40371266	Need Scrubbing
+M29F400FT5AN6E2	Alliance Memory	M29F400FT5AN6E2	Micron Technology	1416	41519559	Need Scrubbing
+M25P80-VMN3TPB	Alliance Memory	M25P80-VMN3TPB	Micron Technology	1416	43318589	Need Scrubbing
+M29W640GH70ZA6E	Alliance Memory	M29W640GH70ZA6E	Micron Technology	1416	34507780	Need Scrubbing
+M29W640GH70ZA6E	Alliance Memory	M29W640GH70ZA6E	STMicroelectronics	1579	25595216	Need Scrubbing
+M29W640GT7AN6E	Alliance Memory	M29W640GT7AN6E	Micron Technology	1416	56714905	Need Scrubbing
+M29F800FB5AN6F2	Alliance Memory	M29F800FB5AN6F2	Micron Technology	1416	40371247	Need Scrubbing
+PF48F4000P0ZBQEF	Alliance Memory	PF48F4000P0ZBQEF	Micron Technology	1416	42736430	Need Scrubbing
+PC28F640P33TF60A	Alliance Memory	PC28F640P33TF60A	Micron Technology	1416	46311611	Need Scrubbing
+PC48F4400P0TB0EE	Alliance Memory	PC48F4400P0TB0EE	Micron Technology	1416	46308192	Need Scrubbing
+PC28F128P33BF60A	Alliance Memory	PC28F128P33BF60A	Micron Technology	1416	48708125	Need Scrubbing
+PC28F640J3F75A	Alliance Memory	PC28F640J3F75A	Micron Technology	1416	42929723	Need Scrubbing
+PC28F640P30BF65B	Alliance Memory	PC28F640P30BF65B	Micron Technology	1416	51944241	Need Scrubbing
+M58BW016FB7T3F	Alliance Memory	M58BW016FB7T3F	Micron Technology	1416	38090584	Need Scrubbing
+M29W064FB70N3E	Alliance Memory	M29W064FB70N3E	Micron Technology	1416	38219080	Need Scrubbing
+SST59U	Belden	SST59U	"ABB Installation Products, Inc"	3165	79958426	Direct Match Corrected supplier
+SST59U	Belden	SST59U	ABB Installation Products, Inc	3165	79958426	Direct Match Corrected supplier
+311P409-2P-B-12	C&K	311P409-2P-B-12	TE Connectivity	1629	25591968	Need Scrubbing
+311P409-2P-B-12	C&K	311P409-2P-B-12	ITT Inc	1351	62354697	Direct Match Corrected supplier
+CXM50	Chemtronics	CXM50	Illinois Tool Works	2705	20330122	Direct Match Corrected supplier
+8200-W	Corning Incorporated	8200-W	3M	1003	26139916	Direct Match Corrected supplier
+Q-B-5AS	Desco Industries	Q-B-5AS	EasyBraid	4038	415395459	Direct Match Corrected supplier
+OS-D-5AS	Desco Industries	OS-D-5AS	EasyBraid	4038	415394189	Direct Match Corrected supplier
+MS621T	ABLIC Inc	MS621T	Seiko Instruments Inc	55324	405508518	Direct Match Corrected supplier
+VT200F-12.5PF20PPM	ABLIC Inc	VT200F-12.5PF20PPM	Seiko Instruments Inc	55324	408501644	Direct Match Corrected supplier
+M29W320EB70ZE6E	Alliance Memory	M29W320EB70ZE6E	STMicroelectronics	1579	19103904	Need Scrubbing
+M29W320EB70ZE6E	Alliance Memory	M29W320EB70ZE6E	Micron Technology	1416	33538249	Need Scrubbing
+PC28F640P30TF65B	Alliance Memory	PC28F640P30TF65B	Micron Technology	1416	53064097	Need Scrubbing
+PC28F128P30BF65A	Alliance Memory	PC28F128P30BF65A	Micron Technology	1416	46308314	Need Scrubbing
+PC28F320J3F75B	Alliance Memory	PC28F320J3F75B	Micron Technology	1416	46308238	Need Scrubbing
+PC28F512P30TFB	Alliance Memory	PC28F512P30TFB	Micron Technology	1416	46311648	Need Scrubbing
+MT41K1G8SN-107 IT:A	Alliance Memory	MT41K1G8SN-107 IT:A	Micron Technology	1416	73148372	Need Scrubbing
+MT48LC16M16A2P-7E IT:G	Alliance Memory	MT48LC16M16A2P-7E IT:G	Micron Technology	1416	47427764	Need Scrubbing
+M58BW32FB4ZA3T	Alliance Memory	M58BW32FB4ZA3T	STMicroelectronics	1579	21628490	Need Scrubbing
+M58BW32FB4ZA3T	Alliance Memory	M58BW32FB4ZA3T	Micron Technology	1416	36343347	Need Scrubbing
+Y16071R50000D9W	Alpha Electronics	Y16071R50000D9W	Vishay Precision Group	23561	43251184	Direct Match Corrected supplier
+Y16071R50000D9W	Alpha Electronics	Y16071R50000D9W	Vishay	1645	31107998	Need Scrubbing
+MP402R0L	Alpha Electronics	MP402R0L	Vishay Precision Group	23561	416249359	Direct Match Corrected supplier
+MP3K010L	Alpha Electronics	MP3K010L	Vishay Precision Group	23561	416249370	Direct Match Corrected supplier
+MP2K940L	Alpha Electronics	MP2K940L	Vishay Precision Group	23561	416249366	Direct Match Corrected supplier
+TSM23Q-2RG	Applied Motion Products	TSM23Q-2RG	MOONS INDUSTRIES	42082	419350912	Direct Match Corrected supplier
+UCT-LH	Belden	UCT-LH	"ABB Installation Products, Inc"	3165	37942108	Direct Match Corrected supplier
+UCT-LH	Belden	UCT-LH	ABB Installation Products, Inc	3165	37942108	Direct Match Corrected supplier
+DT-04-18-0-C	Belden	DT-04-18-0-C	"PPC Broadband, Inc"	40808	1846531599	Direct Match Corrected supplier
+311P407-2P-B-12	C&K	311P407-2P-B-12	TE Connectivity	1629	48720181	Need Scrubbing
+311P407-2P-B-12	C&K	311P407-2P-B-12	ITT Inc	1351	406270074	Direct Match Corrected supplier
+311P407-1S-B-12	C&K	311P407-1S-B-12	ITT Inc	1351	405518121	Direct Match Corrected supplier
+311P407-1S-B-12	C&K	311P407-1S-B-12	TE Connectivity	1629	25593282	Need Scrubbing
+430P684X9400	Cornell Dubilier Electronics	430P684X9400	Vishay	1645	26335619	Direct Match Corrected supplier
+S-B-10AS	Desco Industries	S-B-10AS	EasyBraid	4038	414020691	Direct Match Corrected supplier
+LF-B-5AS	Desco Industries	LF-B-5AS	EasyBraid	4038	422646613	Direct Match Corrected supplier
+GV1G10	Eaton	GV1G10	Schneider Electric	1545	37834678	Direct Match Corrected supplier
+GSK-805	Global Specialties	GSK-805	Cal Test Electronics	7408	419777749	Direct Match Corrected supplier
+GRDBARV14	Hammond Power Solutions	GRDBARV14	Hammond Manufacturing	2061	53428343	Direct Match Corrected supplier
+MP1205MPFC	"Hitachi Metals, Ltd"	MP1205MPFC	METGLAS	11666	50122603	Direct Match Corrected supplier
+MP3210P4AF	"Hitachi Metals, Ltd"	MP3210P4AF	METGLAS	11666	69170475	Direct Match Corrected supplier
+MP7548MPFC	"Hitachi Metals, Ltd"	MP7548MPFC	METGLAS	11666	50122630	Direct Match Corrected supplier
+MP7050MPFC	"Hitachi Metals, Ltd"	MP7050MPFC	METGLAS	11666	50122619	Direct Match Corrected supplier
+MP2010MPFC	"Hitachi Metals, Ltd"	MP2010MPFC	METGLAS	11666	50122607	Direct Match Corrected supplier
+MP1306MPFC	"Hitachi Metals, Ltd"	MP1306MPFC	METGLAS	11666	50122604	Direct Match Corrected supplier
+FT-3KM F6045G	"Hitachi Metals, Ltd"	FT-3KM F6045G	METGLAS	11666	416738925	Direct Match Corrected supplier
+CCM03-3001LFT R102	ITT Inc	CCM03-3001LFT R102	C&K	12108	101063751	Direct Match Corrected supplier
+LF2190NTR	IXYS	LF2190NTR	Littelfuse	1388	1845755133	Direct Match Corrected supplier
+W0944WC150	IXYS	W0944WC150	Littelfuse	1388	419822147	Direct Match Corrected supplier
+S802CS1RP	IXYS	S802CS1RP	Littelfuse	1388	1845344474	Direct Match Corrected supplier
+IX4351NETR	IXYS	IX4351NETR	Littelfuse	1388	415536461	Direct Match Corrected supplier
+B-01-RTS	KEMET Corporation	B-01-RTS	TOKIN Corporation	2263	27091478	Direct Match Corrected supplier
+B-03-R	KEMET Corporation	B-03-R	TOKIN Corporation	2263	27091481	Direct Match Corrected supplier
+RG-208F	KEMET Corporation	RG-208F	TOKIN Corporation	2263	42242963	Direct Match Corrected supplier
+VU-215F	KEMET Corporation	VU-215F	TOKIN Corporation	2263	42242967	Direct Match Corrected supplier
+VU-220F	KEMET Corporation	VU-220F	TOKIN Corporation	2263	42242568	Direct Match Corrected supplier
+SU16VD-30050	KEMET Corporation	SU16VD-30050	TOKIN Corporation	2263	42049763	Direct Match Corrected supplier
+SNG-19A-080	KEMET Corporation	SNG-19A-080	TOKIN Corporation	2263	27114907	Direct Match Corrected supplier
+SNG-19DB-014	KEMET Corporation	SNG-19DB-014	TOKIN Corporation	2263	27114910	Direct Match Corrected supplier
+SNG-25DB-086	KEMET Corporation	SNG-25DB-086	TOKIN Corporation	2263	27114906	Direct Match Corrected supplier
+GL-2030ET	KEMET Corporation	GL-2030ET	TOKIN Corporation	2263	48493524	Direct Match Corrected supplier
+GL-2060H2	KEMET Corporation	GL-2060H2	TOKIN Corporation	2263	48126721	Direct Match Corrected supplier
+GL-2080C4	KEMET Corporation	GL-2080C4	TOKIN Corporation	2263	41104007	Direct Match Corrected supplier
+GF-210U	KEMET Corporation	GF-210U	TOKIN Corporation	2263	41261797	Direct Match Corrected supplier
+GT-21001	KEMET Corporation	GT-21001	TOKIN Corporation	2263	35209797	Direct Match Corrected supplier
+GT-2200	KEMET Corporation	GT-2200	TOKIN Corporation	2263	27094561	Direct Match Corrected supplier
+LF-215N	KEMET Corporation	LF-215N	TOKIN Corporation	2263	42622225	Direct Match Corrected supplier
+LF-305	KEMET Corporation	LF-305	TOKIN Corporation	2263	35209896	Direct Match Corrected supplier
+MA-2043	KEMET Corporation	MA-2043	TOKIN Corporation	2263	51594540	Direct Match Corrected supplier
+MPCH1040LR68	KEMET Corporation	MPCH1040LR68	TOKIN Corporation	2263	404126243	Direct Match Corrected supplier
+SNT-S10	KEMET Corporation	SNT-S10	TOKIN Corporation	2263	32919098	Direct Match Corrected supplier
+SBT-0208	KEMET Corporation	SBT-0208	TOKIN Corporation	2263	35195957	Direct Match Corrected supplier
+SBT-0240	KEMET Corporation	SBT-0240	TOKIN Corporation	2263	35195958	Direct Match Corrected supplier
+ST-101A	KEMET Corporation	ST-101A	TOKIN Corporation	2263	35192434	Direct Match Corrected supplier
+ST-201A	KEMET Corporation	ST-201A	TOKIN Corporation	2263	35192443	Direct Match Corrected supplier
+ST-202A	KEMET Corporation	ST-202A	TOKIN Corporation	2263	35192445	Direct Match Corrected supplier
+ST-204A3	KEMET Corporation	ST-204A3	TOKIN Corporation	2263	35192448	Direct Match Corrected supplier
+ST-110AH	KEMET Corporation	ST-110AH	TOKIN Corporation	2263	35192438	Direct Match Corrected supplier
+ST-110BV	KEMET Corporation	ST-110BV	TOKIN Corporation	2263	35192441	Direct Match Corrected supplier
+SNT-S20T	KEMET Corporation	SNT-S20T	TOKIN Corporation	2263	27114804	Direct Match Corrected supplier
+B-6-31B	KEMET Corporation	B-6-31B	TOKIN Corporation	2263	35186408	Direct Match Corrected supplier
+GL-2030C3	KEMET Corporation	GL-2030C3	TOKIN Corporation	2263	41104003	Direct Match Corrected supplier
+GL-2060C3	KEMET Corporation	GL-2060C3	TOKIN Corporation	2263	41104004	Direct Match Corrected supplier
+GT-2050R	KEMET Corporation	GT-2050R	TOKIN Corporation	2263	27094566	Direct Match Corrected supplier
+LF-230N	KEMET Corporation	LF-230N	TOKIN Corporation	2263	42622227	Direct Match Corrected supplier
+MA-2013	KEMET Corporation	MA-2013	TOKIN Corporation	2263	35209856	Direct Match Corrected supplier
+GT-210J	KEMET Corporation	GT-210J	TOKIN Corporation	2263	35209810	Direct Match Corrected supplier
+GL-2100M	KEMET Corporation	GL-2100M	TOKIN Corporation	2263	23883011	Direct Match Corrected supplier
+SBT-0208T	KEMET Corporation	SBT-0208T	TOKIN Corporation	2263	26259923	Direct Match Corrected supplier
+SBT-0210T	KEMET Corporation	SBT-0210T	TOKIN Corporation	2263	26259927	Direct Match Corrected supplier
+SBT-0240T	KEMET Corporation	SBT-0240T	TOKIN Corporation	2263	26259921	Direct Match Corrected supplier
+SNT-D20T	KEMET Corporation	SNT-D20T	TOKIN Corporation	2263	27114798	Direct Match Corrected supplier
+SNT-D30TF	KEMET Corporation	SNT-D30TF	TOKIN Corporation	2263	27114807	Direct Match Corrected supplier
+SNT-S30T	KEMET Corporation	SNT-S30T	TOKIN Corporation	2263	27114802	Direct Match Corrected supplier
+BM2P189TF-E2	Kionix	BM2P189TF-E2	ROHM Semiconductor	1534	405476689	Direct Match Corrected supplier
+LZ4-00MD09-0000	"LED Engin, Inc"	LZ4-00MD09-0000	OSRAM	50677	421219475	Direct Match Corrected supplier
+LZ4-V4UV0R-0000	"LED Engin, Inc"	LZ4-V4UV0R-0000	OSRAM	50677	424143476	Direct Match Corrected supplier
+64151 H3 12V55W	LEDVANCE GmbH	64151 H3 12V55W	OSRAM	50677	45873816	Direct Match Corrected supplier
+64111 12V5W	LEDVANCE GmbH	64111 12V5W	OSRAM	50677	45873813	Direct Match Corrected supplier
+4008321329431	LEDVANCE GmbH	4008321329431	OSRAM	50677	62861136	Direct Match Corrected supplier
+4008321873743	LEDVANCE GmbH	4008321873743	OSRAM	50677	75679648	Direct Match Corrected supplier
+XBLNT	Legrand	XBLNT	Middle Atlantic Products	4132	417853816	Direct Match Corrected supplier
+AV9012BK	Legrand	AV9012BK	Middle Atlantic Products	4132	414186181	Direct Match Corrected supplier
+AV5002BK	Legrand	AV5002BK	Middle Atlantic Products	4132	417853716	Direct Match Corrected supplier
+MUBW15-12A7	Littelfuse	MUBW15-12A7	IXYS	1353	16987764	Direct Match Corrected supplier
+IXDI609SI	Littelfuse	IXDI609SI	IXYS	1353	42533905	Direct Match Corrected supplier
+IXDF604SI	Littelfuse	IXDF604SI	IXYS	1353	42533899	Direct Match Corrected supplier
+IXDN602SIA	Littelfuse	IXDN602SIA	IXYS	1353	43056696	Direct Match Corrected supplier
+VUO52-20NO1	Littelfuse	VUO52-20NO1	IXYS	1353	32524580	Direct Match Corrected supplier
+VUO34-16NO1	Littelfuse	VUO34-16NO1	IXYS	1353	18788750	Direct Match Corrected supplier
+IXHX40N150V1HV	Littelfuse	IXHX40N150V1HV	IXYS	1353	56664496	Direct Match Corrected supplier
+P51-200-G-B-I36-4.5V-000-000	SSI Controls Technologies	P51-200-G-B-I36-4.5V-000-000	Amphenol	1761	413912413	Direct Match Corrected supplier
+P51-50-A-B-I36-4.5V-000-000	SSI Controls Technologies	P51-50-A-B-I36-4.5V-000-000	Amphenol	1761	413444633	Direct Match Corrected supplier
+P51-100-G-G-P-4.5V-000-000	SSI Controls Technologies	P51-100-G-G-P-4.5V-000-000	Amphenol	1761	413912407	Direct Match Corrected supplier
+P51-15-G-UB-I36-20MA-000-000	SSI Controls Technologies	P51-15-G-UB-I36-20MA-000-000	Amphenol	1761	413912410	Direct Match Corrected supplier
+P51-10-G-UC-I36-5V-000-000	SSI Controls Technologies	P51-10-G-UC-I36-5V-000-000	Amphenol	1761	413912408	Direct Match Corrected supplier
+P51-200-G-B-I36-5V-000-000	SSI Controls Technologies	P51-200-G-B-I36-5V-000-000	Amphenol	1761	413912415	Direct Match Corrected supplier
+P51-200-G-A-I36-5V-000-000	SSI Controls Technologies	P51-200-G-A-I36-5V-000-000	Amphenol	1761	413912414	Direct Match Corrected supplier
+P51-100-G-B-I36-5V-000-000	SSI Controls Technologies	P51-100-G-B-I36-5V-000-000	Amphenol	1761	413912405	Direct Match Corrected supplier
+P51-50-A-A-P-20mA-000-000	SSI Controls Technologies	P51-50-A-A-P-20mA-000-000	Amphenol	1761	413444644	Direct Match Corrected supplier
+SDSDQAF4-256G-I	SanDisk	SDSDQAF4-256G-I	Western Digital	3523	413891872	Direct Match Corrected supplier
+SDINBDG4-64G-XI2	SanDisk	SDINBDG4-64G-XI2	Western Digital	3523	419774109	Direct Match Corrected supplier
+SDSDAF4-064G-I	SanDisk	SDSDAF4-064G-I	Western Digital	3523	414203707	Direct Match Corrected supplier
+SDSDAF4-512G-I	SanDisk	SDSDAF4-512G-I	Western Digital	3523	414203710	Direct Match Corrected supplier
+SDBPNPZ-256G-XI	SanDisk	SDBPNPZ-256G-XI	Western Digital	3523	419884427	Direct Match Corrected supplier
+SDBPNPZ-512G-XI	SanDisk	SDBPNPZ-512G-XI	Western Digital	3523	419884428	Direct Match Corrected supplier
+SDAPNUW-256G-1022	SanDisk	SDAPNUW-256G-1022	Western Digital	3523	407688766	Direct Match Corrected supplier
+SDBPTPZ-256G-XI	SanDisk	SDBPTPZ-256G-XI	Western Digital	3523	419884436	Direct Match Corrected supplier
+SDSDQED-016G-XI	SanDisk	SDSDQED-016G-XI	Western Digital	3523	407781167	Direct Match Corrected supplier
+SDSDQED-064G-XI	SanDisk	SDSDQED-064G-XI	Western Digital	3523	407781169	Direct Match Corrected supplier
+SDASB8Y-256G	SanDisk	SDASB8Y-256G	Western Digital	3523	407688816	Direct Match Corrected supplier
+SDASN8Y-256G	SanDisk	SDASN8Y-256G	Western Digital	3523	407688801	Direct Match Corrected supplier
+SDINBDA6-32G-XI1	SanDisk	SDINBDA6-32G-XI1	Western Digital	3523	416344023	Direct Match Corrected supplier
+SDINBDA6-64G-I1	SanDisk	SDINBDA6-64G-I1	Western Digital	3523	419743844	Direct Match Corrected supplier
+SDINBDA6-128G-I1	SanDisk	SDINBDA6-128G-I1	Western Digital	3523	424609652	Direct Match Corrected supplier
+SDINBDA6-128G-ZA	SanDisk	SDINBDA6-128G-ZA	Western Digital	3523	413891984	Direct Match Corrected supplier
+SDINBDA6-256G-XA	SanDisk	SDINBDA6-256G-XA	Western Digital	3523	413891985	Direct Match Corrected supplier
+SDINBDA6-64G-ZA	SanDisk	SDINBDA6-64G-ZA	Western Digital	3523	413891982	Direct Match Corrected supplier
+SDATB8Y-1T00	SanDisk	SDATB8Y-1T00	Western Digital	3523	407688829	Direct Match Corrected supplier
+SDATB8Y-512G	SanDisk	SDATB8Y-512G	Western Digital	3523	407688828	Direct Match Corrected supplier
+SDATN8Y-256G	SanDisk	SDATN8Y-256G	Western Digital	3523	407688809	Direct Match Corrected supplier
+SDBPNPZ-1T00-XI	SanDisk	SDBPNPZ-1T00-XI	Western Digital	3523	419884429	Direct Match Corrected supplier
+SDINBDG4-16G-XI2	SanDisk	SDINBDG4-16G-XI2	Western Digital	3523	419774105	Direct Match Corrected supplier
+151730	TE Connectivity	151730	Eaton	1169	426101306	Direct Match Corrected supplier
+T3DSO3204-PROMO-1	Teledyne LeCroy	T3DSO3204-PROMO-1	Teledyne Technologies	1603	423146626	Direct Match Corrected supplier
+UL2AAAA	UltraLast Batteries	UL2AAAA	Dantona Industries	3825	405358148	Direct Match Corrected supplier
+GSC-2301A	Global Specialties	GSC-2301A	Cal Test Electronics	7408	425559983	Direct Match Corrected supplier
+PB-505A	Global Specialties	PB-505A	Cal Test Electronics	7408	425562619	Direct Match Corrected supplier
+GSC-2311A	Global Specialties	GSC-2311A	Cal Test Electronics	7408	425560061	Direct Match Corrected supplier
+PH250MGJ	Hammond Power Solutions	PH250MGJ	Hammond Manufacturing	2061	416743441	Direct Match Corrected supplier
+MP2510PDGC	"Hitachi Metals, Ltd"	MP2510PDGC	METGLAS	11666	46046338	Direct Match Corrected supplier
+MP3210LDGC	"Hitachi Metals, Ltd"	MP3210LDGC	METGLAS	11666	46046343	Direct Match Corrected supplier
+MP4010MPFC	"Hitachi Metals, Ltd"	MP4010MPFC	METGLAS	11666	50122615	Direct Match Corrected supplier
+MP7254MPFC	"Hitachi Metals, Ltd"	MP7254MPFC	METGLAS	11666	50122625	Direct Match Corrected supplier
+MP7350MPFC	"Hitachi Metals, Ltd"	MP7350MPFC	METGLAS	11666	50122628	Direct Match Corrected supplier
+MP7715MPFC	"Hitachi Metals, Ltd"	MP7715MPFC	METGLAS	11666	50122632	Direct Match Corrected supplier
+MP4510MPFC	"Hitachi Metals, Ltd"	MP4510MPFC	METGLAS	11666	50122616	Direct Match Corrected supplier
+MP5812MPFC	"Hitachi Metals, Ltd"	MP5812MPFC	METGLAS	11666	50122618	Direct Match Corrected supplier
+MP7089MPFC	"Hitachi Metals, Ltd"	MP7089MPFC	METGLAS	11666	50122620	Direct Match Corrected supplier
+MP2310LDGC	"Hitachi Metals, Ltd"	MP2310LDGC	METGLAS	11666	46046334	Direct Match Corrected supplier
+MP2310PDGC	"Hitachi Metals, Ltd"	MP2310PDGC	METGLAS	11666	46046335	Direct Match Corrected supplier
+MP1710LDGC	"Hitachi Metals, Ltd"	MP1710LDGC	METGLAS	11666	46046328	Direct Match Corrected supplier
+MP1710PDGC	"Hitachi Metals, Ltd"	MP1710PDGC	METGLAS	11666	46046329	Direct Match Corrected supplier
+MP2010MDGC	"Hitachi Metals, Ltd"	MP2010MDGC	METGLAS	11666	420268609	Direct Match Corrected supplier
+MP2610MPFC	"Hitachi Metals, Ltd"	MP2610MPFC	METGLAS	11666	50122610	Direct Match Corrected supplier
+MP3310LDGC	"Hitachi Metals, Ltd"	MP3310LDGC	METGLAS	11666	46046309	Direct Match Corrected supplier
+MP2616MPFC	"Hitachi Metals, Ltd"	MP2616MPFC	METGLAS	11666	50122611	Direct Match Corrected supplier
+MP3510LDGC	"Hitachi Metals, Ltd"	MP3510LDGC	METGLAS	11666	46046348	Direct Match Corrected supplier
+MP1603LDGC	"Hitachi Metals, Ltd"	MP1603LDGC	METGLAS	11666	46046324	Direct Match Corrected supplier
+MP7109MPFC	"Hitachi Metals, Ltd"	MP7109MPFC	METGLAS	11666	50122621	Direct Match Corrected supplier
+MP7120MPFC	"Hitachi Metals, Ltd"	MP7120MPFC	METGLAS	11666	50122622	Direct Match Corrected supplier
+MP2010PDGC	"Hitachi Metals, Ltd"	MP2010PDGC	METGLAS	11666	46046332	Direct Match Corrected supplier
+MTB1-20SH011-10-FR022	ITT Inc	MTB1-20SH011-10-FR022	C&K	12108	61477117	Direct Match Corrected supplier
+MTB1-15SAL57D1-10-FR022	ITT Inc	MTB1-15SAL57D1-10-FR022	C&K	12108	61484128	Direct Match Corrected supplier
+MTB1-20PAL57D1-10-FR022	ITT Inc	MTB1-20PAL57D1-10-FR022	C&K	12108	61484272	Direct Match Corrected supplier
+W1748LC180	IXYS	W1748LC180	Littelfuse	1388	419822156	Direct Match Corrected supplier
+IXYN100N65B3D1	IXYS	IXYN100N65B3D1	Littelfuse	1388	1845251740	Direct Match Corrected supplier
+W5334MK200	IXYS	W5334MK200	Littelfuse	1388	419828708	Direct Match Corrected supplier
+W2899MC480	IXYS	W2899MC480	Littelfuse	1388	419822165	Direct Match Corrected supplier
+W5838ZD220	IXYS	W5838ZD220	Littelfuse	1388	419822172	Direct Match Corrected supplier
+W1524LC240	IXYS	W1524LC240	Littelfuse	1388	419822154	Direct Match Corrected supplier
+W3409NK240	IXYS	W3409NK240	Littelfuse	1388	419828704	Direct Match Corrected supplier
+W5636MC150	IXYS	W5636MC150	Littelfuse	1388	419822170	Direct Match Corrected supplier
+W8570TE220	IXYS	W8570TE220	Littelfuse	1388	419822176	Direct Match Corrected supplier
+W108CED220	IXYS	W108CED220	Littelfuse	1388	419822149	Direct Match Corrected supplier
+W1360LG300	IXYS	W1360LG300	Littelfuse	1388	419822151	Direct Match Corrected supplier
+G2000HF450	IXYS	G2000HF450	Littelfuse	1388	1845251911	Direct Match Corrected supplier
+E0770HF65F	IXYS	E0770HF65F	Littelfuse	1388	424196882	Direct Match Corrected supplier
+K1670HA650	IXYS	K1670HA650	Littelfuse	1388	422043414	Direct Match Corrected supplier
+IXTT220N20X4HV	IXYS	IXTT220N20X4HV	Littelfuse	1388	424193630	Direct Match Corrected supplier
+M0759YC160	IXYS	M0759YC160	Littelfuse	1388	1845251727	Direct Match Corrected supplier
+M1609NC200	IXYS	M1609NC200	Littelfuse	1388	1845251769	Direct Match Corrected supplier
+N3229QK040	IXYS	N3229QK040	Littelfuse	1388	1845251737	Direct Match Corrected supplier
+N1718NC200	IXYS	N1718NC200	Littelfuse	1388	1845251691	Direct Match Corrected supplier
+IRF830PBF	Infineon Technologies AG	IRF830PBF	Vishay	1645	30426193	Direct Match Corrected supplier
+ICM-40627	InvenSense	ICM-40627	TDK	1600	418024515	Direct Match Corrected supplier
+B-01-AT1F	KEMET Corporation	B-01-AT1F	TOKIN Corporation	2263	35195972	Direct Match Corrected supplier
+B-06-R-50	KEMET Corporation	B-06-R-50	TOKIN Corporation	2263	27091471	Direct Match Corrected supplier
+B-6-22B	KEMET Corporation	B-6-22B	TOKIN Corporation	2263	35186407	Direct Match Corrected supplier
+GF-220U	KEMET Corporation	GF-220U	TOKIN Corporation	2263	41261800	Direct Match Corrected supplier
+GT-2100	KEMET Corporation	GT-2100	TOKIN Corporation	2263	27094559	Direct Match Corrected supplier
+GT-2150	KEMET Corporation	GT-2150	TOKIN Corporation	2263	27094560	Direct Match Corrected supplier
+GL-2150C-10	KEMET Corporation	GL-2150C-10	TOKIN Corporation	2263	87148137	Direct Match Corrected supplier
+GT-215U	KEMET Corporation	GT-215U	TOKIN Corporation	2263	27094564	Direct Match Corrected supplier
+LF-240	KEMET Corporation	LF-240	TOKIN Corporation	2263	42622139	Direct Match Corrected supplier
+GT-220U	KEMET Corporation	GT-220U	TOKIN Corporation	2263	27094565	Direct Match Corrected supplier
+SNT-D10T	KEMET Corporation	SNT-D10T	TOKIN Corporation	2263	27114799	Direct Match Corrected supplier
+SNT-S20TF	KEMET Corporation	SNT-S20TF	TOKIN Corporation	2263	27114801	Direct Match Corrected supplier
+SNT-D10TF	KEMET Corporation	SNT-D10TF	TOKIN Corporation	2263	27114809	Direct Match Corrected supplier
+GT-21001V	KEMET Corporation	GT-21001V	TOKIN Corporation	2263	35209804	Direct Match Corrected supplier
+SBP-5001T	KEMET Corporation	SBP-5001T	TOKIN Corporation	2263	28109213	Direct Match Corrected supplier
+SBT-0260	KEMET Corporation	SBT-0260	TOKIN Corporation	2263	35195959	Direct Match Corrected supplier
+SBT-0260TF	KEMET Corporation	SBT-0260TF	TOKIN Corporation	2263	26259926	Direct Match Corrected supplier
+GL-2030C	KEMET Corporation	GL-2030C	TOKIN Corporation	2263	41103999	Direct Match Corrected supplier
+GL-2150C	KEMET Corporation	GL-2150C	TOKIN Corporation	2263	32753603	Direct Match Corrected supplier
+MR-2043	KEMET Corporation	MR-2043	TOKIN Corporation	2263	51631897	Direct Match Corrected supplier
+TCG057VGLBA-G20	KYOCERA Display	TCG057VGLBA-G20	Kyocera	2357	52954363	Direct Match Corrected supplier
+LZ4-01R708-0000	"LED Engin, Inc"	LZ4-01R708-0000	OSRAM	50677	425580768	Direct Match Corrected supplier
+LZ4-01A108-0000	"LED Engin, Inc"	LZ4-01A108-0000	OSRAM	50677	425580771	Direct Match Corrected supplier
+LZP-D4UB0R-00U4	"LED Engin, Inc"	LZP-D4UB0R-00U4	OSRAM	50677	424195285	Direct Match Corrected supplier
+30112 PILOT TPLG	LEDVANCE GmbH	30112 PILOT TPLG	OSRAM	50677	45873794	Direct Match Corrected supplier
+RC4CTCGY	Legrand	RC4CTCGY	Middle Atlantic Products	4132	416621311	Direct Match Corrected supplier
+RC3SHTCBS	Legrand	RC3SHTCBS	Middle Atlantic Products	4132	416620551	Direct Match Corrected supplier
+RC9SHMDTCBS	Legrand	RC9SHMDTCBS	Middle Atlantic Products	4132	416621442	Direct Match Corrected supplier
+RC9SHTCBK	Legrand	RC9SHTCBK	Middle Atlantic Products	4132	416620974	Direct Match Corrected supplier
+RC9SHTCGY	Legrand	RC9SHTCGY	Middle Atlantic Products	4132	416620972	Direct Match Corrected supplier
+RC7ATCBS	Legrand	RC7ATCBS	Middle Atlantic Products	4132	416620762	Direct Match Corrected supplier
+RC7CTCBK	Legrand	RC7CTCBK	Middle Atlantic Products	4132	416620760	Direct Match Corrected supplier
+RC7CTCGY	Legrand	RC7CTCGY	Middle Atlantic Products	4132	416620758	Direct Match Corrected supplier
+RC4STC	Legrand	RC4STC	Middle Atlantic Products	4132	416620772	Direct Match Corrected supplier
+RC4KTCAL	Legrand	RC4KTCAL	Middle Atlantic Products	4132	416620898	Direct Match Corrected supplier
+RC4KTCBS	Legrand	RC4KTCBS	Middle Atlantic Products	4132	416620895	Direct Match Corrected supplier
+RC4REC2	Legrand	RC4REC2	Middle Atlantic Products	4132	416620435	Direct Match Corrected supplier
+RC4SHTCBK	Legrand	RC4SHTCBK	Middle Atlantic Products	4132	416620774	Direct Match Corrected supplier
+RC4ATCAA	Legrand	RC4ATCAA	Middle Atlantic Products	4132	417874726	Direct Match Corrected supplier
+RC4ATCBK	Legrand	RC4ATCBK	Middle Atlantic Products	4132	416620771	Direct Match Corrected supplier
+RC4ATCGY	Legrand	RC4ATCGY	Middle Atlantic Products	4132	416620769	Direct Match Corrected supplier
+RC4CTCAB	Legrand	RC4CTCAB	Middle Atlantic Products	4132	416621315	Direct Match Corrected supplier
+RC4CTCBK	Legrand	RC4CTCBK	Middle Atlantic Products	4132	416621314	Direct Match Corrected supplier
+RC9A15TCAL	Legrand	RC9A15TCAL	Middle Atlantic Products	4132	416620886	Direct Match Corrected supplier
+RC9A15TCBS	Legrand	RC9A15TCBS	Middle Atlantic Products	4132	416620756	Direct Match Corrected supplier
+RC9AM2STC	Legrand	RC9AM2STC	Middle Atlantic Products	4132	416620754	Direct Match Corrected supplier
+RC9AMDTCAL	Legrand	RC9AMDTCAL	Middle Atlantic Products	4132	416621841	Direct Match Corrected supplier
+RC9AMDTCBS	Legrand	RC9AMDTCBS	Middle Atlantic Products	4132	416621840	Direct Match Corrected supplier
+RC9APTCBK	Legrand	RC9APTCBK	Middle Atlantic Products	4132	416620442	Direct Match Corrected supplier
+RC3STC	Legrand	RC3STC	Middle Atlantic Products	4132	416620780	Direct Match Corrected supplier
+RC4APTCGY	Legrand	RC4APTCGY	Middle Atlantic Products	4132	416620901	Direct Match Corrected supplier
+RC3KTCBK	Legrand	RC3KTCBK	Middle Atlantic Products	4132	416620786	Direct Match Corrected supplier
+RC3KTCGY	Legrand	RC3KTCGY	Middle Atlantic Products	4132	416620785	Direct Match Corrected supplier
+RC37REC-25	Legrand	RC37REC-25	Middle Atlantic Products	4132	416620434	Direct Match Corrected supplier
+RC3APTCGY	Legrand	RC3APTCGY	Middle Atlantic Products	4132	416620900	Direct Match Corrected supplier
+RC3ATCAB	Legrand	RC3ATCAB	Middle Atlantic Products	4132	416620889	Direct Match Corrected supplier
+RC3ATCBK	Legrand	RC3ATCBK	Middle Atlantic Products	4132	416620779	Direct Match Corrected supplier
+RC3ATCGY	Legrand	RC3ATCGY	Middle Atlantic Products	4132	416620777	Direct Match Corrected supplier
+RC3CTCAL	Legrand	RC3CTCAL	Middle Atlantic Products	4132	416621318	Direct Match Corrected supplier
+RC3CTCBS	Legrand	RC3CTCBS	Middle Atlantic Products	4132	416621317	Direct Match Corrected supplier
+RC9CMDTCAB	Legrand	RC9CMDTCAB	Middle Atlantic Products	4132	416621204	Direct Match Corrected supplier
+RC9CMDTCBK	Legrand	RC9CMDTCBK	Middle Atlantic Products	4132	416621449	Direct Match Corrected supplier
+RC9CMDTCGY	Legrand	RC9CMDTCGY	Middle Atlantic Products	4132	416621445	Direct Match Corrected supplier
+RC9CTCAL	Legrand	RC9CTCAL	Middle Atlantic Products	4132	416621323	Direct Match Corrected supplier
+RC9CTCGY	Legrand	RC9CTCGY	Middle Atlantic Products	4132	416621322	Direct Match Corrected supplier
+RC7KTCAL	Legrand	RC7KTCAL	Middle Atlantic Products	4132	416620899	Direct Match Corrected supplier
+RC7KTCBS	Legrand	RC7KTCBS	Middle Atlantic Products	4132	416620896	Direct Match Corrected supplier
+RC7SHTCBK	Legrand	RC7SHTCBK	Middle Atlantic Products	4132	416620765	Direct Match Corrected supplier
+RC7SHTCGY	Legrand	RC7SHTCGY	Middle Atlantic Products	4132	416620764	Direct Match Corrected supplier
+RC7APTCGY	Legrand	RC7APTCGY	Middle Atlantic Products	4132	416620902	Direct Match Corrected supplier
+RC7ATCAL	Legrand	RC7ATCAL	Middle Atlantic Products	4132	416620884	Direct Match Corrected supplier
+CM-MMB-231	Legrand	CM-MMB-231	Middle Atlantic Products	4132	417485234	Direct Match Corrected supplier
+CM-MMB-233	Legrand	CM-MMB-233	Middle Atlantic Products	4132	417485228	Direct Match Corrected supplier
+CM-MMB-292-WH	Legrand	CM-MMB-292-WH	Middle Atlantic Products	4132	417485214	Direct Match Corrected supplier
+COM50	Legrand	COM50	Middle Atlantic Products	4132	416620792	Direct Match Corrected supplier
+DQFP15BK-2A	Legrand	DQFP15BK-2A	Middle Atlantic Products	4132	417854032	Direct Match Corrected supplier
+DQFP15ST-2A	Legrand	DQFP15ST-2A	Middle Atlantic Products	4132	417854033	Direct Match Corrected supplier
+ECB-1RUMB	Legrand	ECB-1RUMB	Middle Atlantic Products	4132	417853784	Direct Match Corrected supplier
+ECB-CBKIT	Legrand	ECB-CBKIT	Middle Atlantic Products	4132	414186488	Direct Match Corrected supplier
+ECB-FAN	Legrand	ECB-FAN	Middle Atlantic Products	4132	417854052	Direct Match Corrected supplier
+DQFP15UBK-2A	Legrand	DQFP15UBK-2A	Middle Atlantic Products	4132	417854036	Direct Match Corrected supplier
+DQFP15UST-2A	Legrand	DQFP15UST-2A	Middle Atlantic Products	4132	417854037	Direct Match Corrected supplier
+DQFP20BK-2A	Legrand	DQFP20BK-2A	Middle Atlantic Products	4132	417854034	Direct Match Corrected supplier
+DQFP20ST-2A	Legrand	DQFP20ST-2A	Middle Atlantic Products	4132	417854035	Direct Match Corrected supplier
+DQFP20UBK-2A	Legrand	DQFP20UBK-2A	Middle Atlantic Products	4132	417854038	Direct Match Corrected supplier
+DQFP20UST-2A	Legrand	DQFP20UST-2A	Middle Atlantic Products	4132	417854039	Direct Match Corrected supplier
+EFB-AAP	Legrand	EFB-AAP	Middle Atlantic Products	4132	416621366	Direct Match Corrected supplier
+EFB-MAAP	Legrand	EFB-MAAP	Middle Atlantic Products	4132	416621367	Direct Match Corrected supplier
+EFB-TEMPLATE	Legrand	EFB-TEMPLATE	Middle Atlantic Products	4132	416621365	Direct Match Corrected supplier
+EFBFF	Legrand	EFBFF	Middle Atlantic Products	4132	417484439	Direct Match Corrected supplier
+EFBFF-OG	Legrand	EFBFF-OG	Middle Atlantic Products	4132	417484117	Direct Match Corrected supplier
+EFB10-2C	Legrand	EFB10-2C	Middle Atlantic Products	4132	416621346	Direct Match Corrected supplier
+EFB10-5GMB	Legrand	EFB10-5GMB	Middle Atlantic Products	4132	416621413	Direct Match Corrected supplier
+EFB10-AAP	Legrand	EFB10-AAP	Middle Atlantic Products	4132	416621349	Direct Match Corrected supplier
+EFB10-DEC	Legrand	EFB10-DEC	Middle Atlantic Products	4132	416621351	Direct Match Corrected supplier
+EFB10-MAAP	Legrand	EFB10-MAAP	Middle Atlantic Products	4132	416621353	Direct Match Corrected supplier
+EFB10-MOS	Legrand	EFB10-MOS	Middle Atlantic Products	4132	416621354	Direct Match Corrected supplier
+EFB10-S2	Legrand	EFB10-S2	Middle Atlantic Products	4132	416621356	Direct Match Corrected supplier
+EFB10S-OG	Legrand	EFB10S-OG	Middle Atlantic Products	4132	417955730	Direct Match Corrected supplier
+EFB45-TS	Legrand	EFB45-TS	Middle Atlantic Products	4132	416621373	Direct Match Corrected supplier
+EFB45BTALTR	Legrand	EFB45BTALTR	Middle Atlantic Products	4132	416620730	Direct Match Corrected supplier
+EFB45BTBKTR	Legrand	EFB45BTBKTR	Middle Atlantic Products	4132	416620729	Direct Match Corrected supplier
+EFB45BTBSTR	Legrand	EFB45BTBSTR	Middle Atlantic Products	4132	416620728	Direct Match Corrected supplier
+EFB45BTBZTR	Legrand	EFB45BTBZTR	Middle Atlantic Products	4132	416620727	Direct Match Corrected supplier
+EFB45BTCALTR	Legrand	EFB45BTCALTR	Middle Atlantic Products	4132	416620716	Direct Match Corrected supplier
+EFB45BTCBKTR	Legrand	EFB45BTCBKTR	Middle Atlantic Products	4132	416620715	Direct Match Corrected supplier
+DQFP15BK	Legrand	DQFP15BK	Middle Atlantic Products	4132	417853727	Direct Match Corrected supplier
+EFB45CTCBZTR	Legrand	EFB45CTCBZTR	Middle Atlantic Products	4132	416620722	Direct Match Corrected supplier
+EFB45CTCNK	Legrand	EFB45CTCNK	Middle Atlantic Products	4132	416620537	Direct Match Corrected supplier
+EFB45CTGY	Legrand	EFB45CTGY	Middle Atlantic Products	4132	416621285	Direct Match Corrected supplier
+EFB45CTNK	Legrand	EFB45CTNK	Middle Atlantic Products	4132	416621284	Direct Match Corrected supplier
+EFB45BTCBS	Legrand	EFB45BTCBS	Middle Atlantic Products	4132	416620501	Direct Match Corrected supplier
+EFB45BTCBZTR	Legrand	EFB45BTCBZTR	Middle Atlantic Products	4132	416620713	Direct Match Corrected supplier
+EFB45BTCGYTR	Legrand	EFB45BTCGYTR	Middle Atlantic Products	4132	416620712	Direct Match Corrected supplier
+EFB45BTCNKTR	Legrand	EFB45BTCNKTR	Middle Atlantic Products	4132	416620711	Direct Match Corrected supplier
+EFB45BTGYTR	Legrand	EFB45BTGYTR	Middle Atlantic Products	4132	416620710	Direct Match Corrected supplier
+EFB610BTCBS	Legrand	EFB610BTCBS	Middle Atlantic Products	4132	416621293	Direct Match Corrected supplier
+EFB6-3/4-11/4	Legrand	EFB6-3/4-11/4	Middle Atlantic Products	4132	416621364	Direct Match Corrected supplier
+EFB6-MB	Legrand	EFB6-MB	Middle Atlantic Products	4132	416621372	Direct Match Corrected supplier
+EFB610-CTR	Legrand	EFB610-CTR	Middle Atlantic Products	4132	416621310	Direct Match Corrected supplier
+EFB610BTBK	Legrand	EFB610BTBK	Middle Atlantic Products	4132	416621304	Direct Match Corrected supplier
+EFB610BTBZ	Legrand	EFB610BTBZ	Middle Atlantic Products	4132	416621302	Direct Match Corrected supplier
+EFB45BTNK	Legrand	EFB45BTNK	Middle Atlantic Products	4132	416621278	Direct Match Corrected supplier
+EFB610BTCGY	Legrand	EFB610BTCGY	Middle Atlantic Products	4132	416621291	Direct Match Corrected supplier
+ECB-PD	Legrand	ECB-PD	Middle Atlantic Products	4132	416620964	Direct Match Corrected supplier
+ECB-SD	Legrand	ECB-SD	Middle Atlantic Products	4132	416620544	Direct Match Corrected supplier
+EFS-DB	Legrand	EFS-DB	Middle Atlantic Products	4132	417484328	Direct Match Corrected supplier
+EFS-MB	Legrand	EFS-MB	Middle Atlantic Products	4132	417484323	Direct Match Corrected supplier
+EFSB4	Legrand	EFSB4	Middle Atlantic Products	4132	417484405	Direct Match Corrected supplier
+EFB610CTCBK	Legrand	EFB610CTCBK	Middle Atlantic Products	4132	416621299	Direct Match Corrected supplier
+EFB8S	Legrand	EFB8S	Middle Atlantic Products	4132	417955724	Direct Match Corrected supplier
+EFB610CTCGY	Legrand	EFB610CTCGY	Middle Atlantic Products	4132	416621296	Direct Match Corrected supplier
+EFB610CTGY	Legrand	EFB610CTGY	Middle Atlantic Products	4132	416621306	Direct Match Corrected supplier
+EFB6M	Legrand	EFB6M	Middle Atlantic Products	4132	416621415	Direct Match Corrected supplier
+EFB6S-2HUB	Legrand	EFB6S-2HUB	Middle Atlantic Products	4132	417955725	Direct Match Corrected supplier
+EFB8-22GMB	Legrand	EFB8-22GMB	Middle Atlantic Products	4132	416621915	Direct Match Corrected supplier
+EFB8-MB	Legrand	EFB8-MB	Middle Atlantic Products	4132	416621925	Direct Match Corrected supplier
+EFB810-3/4-11/4	Legrand	EFB810-3/4-11/4	Middle Atlantic Products	4132	416621360	Direct Match Corrected supplier
+EFB810-DIV	Legrand	EFB810-DIV	Middle Atlantic Products	4132	417875055	Direct Match Corrected supplier
+EHWBC8-BK	Legrand	EHWBC8-BK	Middle Atlantic Products	4132	416621380	Direct Match Corrected supplier
+EHWB-MB	Legrand	EHWB-MB	Middle Atlantic Products	4132	424441100	Direct Match Corrected supplier
+EHWB4-BK	Legrand	EHWB4-BK	Middle Atlantic Products	4132	423247050	Direct Match Corrected supplier
+EHWB8-BK	Legrand	EHWB8-BK	Middle Atlantic Products	4132	423247052	Direct Match Corrected supplier
+EFB45CTAL	Legrand	EFB45CTAL	Middle Atlantic Products	4132	416621289	Direct Match Corrected supplier
+EFB45CTBK	Legrand	EFB45CTBK	Middle Atlantic Products	4132	416621288	Direct Match Corrected supplier
+EFB45CTBS	Legrand	EFB45CTBS	Middle Atlantic Products	4132	416621287	Direct Match Corrected supplier
+EFB45CTBZ	Legrand	EFB45CTBZ	Middle Atlantic Products	4132	416621286	Direct Match Corrected supplier
+EFB45CTCAL	Legrand	EFB45CTCAL	Middle Atlantic Products	4132	416620541	Direct Match Corrected supplier
+EFB45CTCBK	Legrand	EFB45CTCBK	Middle Atlantic Products	4132	416620540	Direct Match Corrected supplier
+EFB45CTCBS	Legrand	EFB45CTCBS	Middle Atlantic Products	4132	416620539	Direct Match Corrected supplier
+EHWBC4-BK	Legrand	EHWBC4-BK	Middle Atlantic Products	4132	416621382	Direct Match Corrected supplier
+EFB610BTGY	Legrand	EFB610BTGY	Middle Atlantic Products	4132	416621301	Direct Match Corrected supplier
+EFB610CTBK	Legrand	EFB610CTBK	Middle Atlantic Products	4132	416621309	Direct Match Corrected supplier
+EFB610CTBZ	Legrand	EFB610CTBZ	Middle Atlantic Products	4132	416621307	Direct Match Corrected supplier
+FPFFTCAL	Legrand	FPFFTCAL	Middle Atlantic Products	4132	416621234	Direct Match Corrected supplier
+FPFFTCBZ	Legrand	FPFFTCBZ	Middle Atlantic Products	4132	416621232	Direct Match Corrected supplier
+IG2427GA	Legrand	IG2427GA	Middle Atlantic Products	4132	417854501	Direct Match Corrected supplier
+2300WC	Legrand	2300WC	Middle Atlantic Products	4132	417853993	Direct Match Corrected supplier
+OFR89-DS4000	Legrand	OFR89-DS4000	Middle Atlantic Products	4132	416620953	Direct Match Corrected supplier
+OFR47-2A	Legrand	OFR47-2A	Middle Atlantic Products	4132	416620962	Direct Match Corrected supplier
+OFR47-D	Legrand	OFR47-D	Middle Atlantic Products	4132	416620952	Direct Match Corrected supplier
+OFR47-U2A	Legrand	OFR47-U2A	Middle Atlantic Products	4132	416620949	Direct Match Corrected supplier
+OFR48-2MRTC	Legrand	OFR48-2MRTC	Middle Atlantic Products	4132	416620943	Direct Match Corrected supplier
+OFR48-4GX	Legrand	OFR48-4GX	Middle Atlantic Products	4132	416620955	Direct Match Corrected supplier
+OFR89-2400	Legrand	OFR89-2400	Middle Atlantic Products	4132	416620961	Direct Match Corrected supplier
+OFR15	Legrand	OFR15	Middle Atlantic Products	4132	416620944	Direct Match Corrected supplier
+NM2044-WH	Legrand	NM2044-WH	Middle Atlantic Products	4132	417483467	Direct Match Corrected supplier
+NM2048-WH	Legrand	NM2048-WH	Middle Atlantic Products	4132	417483354	Direct Match Corrected supplier
+FP-CTR	Legrand	FP-CTR	Middle Atlantic Products	4132	417875117	Direct Match Corrected supplier
+44S1	Legrand	44S1	Middle Atlantic Products	4132	417486275	Direct Match Corrected supplier
+4STC	Legrand	4STC	Middle Atlantic Products	4132	417486311	Direct Match Corrected supplier
+4ATCBZ	Legrand	4ATCBZ	Middle Atlantic Products	4132	417486396	Direct Match Corrected supplier
+4PPS	Legrand	4PPS	Middle Atlantic Products	4132	417854016	Direct Match Corrected supplier
+XCSAL3GRRU-BK	Legrand	XCSAL3GRRU-BK	Middle Atlantic Products	4132	417854264	Direct Match Corrected supplier
+XCSAL3GRRU-SV	Legrand	XCSAL3GRRU-SV	Middle Atlantic Products	4132	417854262	Direct Match Corrected supplier
+XCSLOCK-BZ	Legrand	XCSLOCK-BZ	Middle Atlantic Products	4132	417853849	Direct Match Corrected supplier
+XCSPP2G-BZ	Legrand	XCSPP2G-BZ	Middle Atlantic Products	4132	417853806	Direct Match Corrected supplier
+XCSPP2GRR-BK	Legrand	XCSPP2GRR-BK	Middle Atlantic Products	4132	417853810	Direct Match Corrected supplier
+XCSPP2GRR-SV	Legrand	XCSPP2GRR-SV	Middle Atlantic Products	4132	417853808	Direct Match Corrected supplier
+XCSPP2GRU-BZ	Legrand	XCSPP2GRU-BZ	Middle Atlantic Products	4132	417853929	Direct Match Corrected supplier
+XCSPP2GUU-BK	Legrand	XCSPP2GUU-BK	Middle Atlantic Products	4132	417853813	Direct Match Corrected supplier
+XCSPP2GUU-SV	Legrand	XCSPP2GUU-SV	Middle Atlantic Products	4132	417853811	Direct Match Corrected supplier
+XCSPP3G-BZ	Legrand	XCSPP3G-BZ	Middle Atlantic Products	4132	417853803	Direct Match Corrected supplier
+XCSPP3GRRU-BK	Legrand	XCSPP3GRRU-BK	Middle Atlantic Products	4132	417853924	Direct Match Corrected supplier
+XCSPP3GRRU-SV	Legrand	XCSPP3GRRU-SV	Middle Atlantic Products	4132	417853922	Direct Match Corrected supplier
+XCSAL3G-BZ	Legrand	XCSAL3G-BZ	Middle Atlantic Products	4132	417854062	Direct Match Corrected supplier
+XCSAV	Legrand	XCSAV	Middle Atlantic Products	4132	416621859	Direct Match Corrected supplier
+4CTCBZ	Legrand	4CTCBZ	Middle Atlantic Products	4132	416621892	Direct Match Corrected supplier
+XCSDOOR-BK	Legrand	XCSDOOR-BK	Middle Atlantic Products	4132	416620720	Direct Match Corrected supplier
+XCSDOOR-SV	Legrand	XCSDOOR-SV	Middle Atlantic Products	4132	416620718	Direct Match Corrected supplier
+XCSSHELF-BK	Legrand	XCSSHELF-BK	Middle Atlantic Products	4132	416620576	Direct Match Corrected supplier
+4ATCP4RBK	Legrand	4ATCP4RBK	Middle Atlantic Products	4132	417486361	Direct Match Corrected supplier
+4DIV	Legrand	4DIV	Middle Atlantic Products	4132	417486292	Direct Match Corrected supplier
+44DEC	Legrand	44DEC	Middle Atlantic Products	4132	416621885	Direct Match Corrected supplier
+4ATCP2CRBZ	Legrand	4ATCP2CRBZ	Middle Atlantic Products	4132	417485161	Direct Match Corrected supplier
+4ATCP2RBZ	Legrand	4ATCP2RBZ	Middle Atlantic Products	4132	417484428	Direct Match Corrected supplier
+4ATCP2RNK	Legrand	4ATCP2RNK	Middle Atlantic Products	4132	417486318	Direct Match Corrected supplier
+XCSAL2G-SV	Legrand	XCSAL2G-SV	Middle Atlantic Products	4132	417854064	Direct Match Corrected supplier
+XCSAL2GRR-BZ	Legrand	XCSAL2GRR-BZ	Middle Atlantic Products	4132	417854344	Direct Match Corrected supplier
+XCSAL2GRU-BK	Legrand	XCSAL2GRU-BK	Middle Atlantic Products	4132	417854349	Direct Match Corrected supplier
+XCSAL2GRU-SV	Legrand	XCSAL2GRU-SV	Middle Atlantic Products	4132	417854347	Direct Match Corrected supplier
+XCSAL2GUU-BZ	Legrand	XCSAL2GUU-BZ	Middle Atlantic Products	4132	417854346	Direct Match Corrected supplier
+XCSAL3GRUU-BK	Legrand	XCSAL3GRUU-BK	Middle Atlantic Products	4132	417854267	Direct Match Corrected supplier
+XCSAL3GRUU-SV	Legrand	XCSAL3GRUU-SV	Middle Atlantic Products	4132	417854265	Direct Match Corrected supplier
+XCSPP3GRUU-BZ	Legrand	XCSPP3GRUU-BZ	Middle Atlantic Products	4132	417853926	Direct Match Corrected supplier
+WSPC220CBK	Legrand	WSPC220CBK	Middle Atlantic Products	4132	417485021	Direct Match Corrected supplier
+WSPC320CBK	Legrand	WSPC320CBK	Middle Atlantic Products	4132	417485005	Direct Match Corrected supplier
+XB814CLVBN	Legrand	XB814CLVBN	Middle Atlantic Products	4132	423247055	Direct Match Corrected supplier
+XB814CPGY	Legrand	XB814CPGY	Middle Atlantic Products	4132	416620963	Direct Match Corrected supplier
+XB814CL630BK	Legrand	XB814CL630BK	Middle Atlantic Products	4132	416620241	Direct Match Corrected supplier
+XB814CL630GY	Legrand	XB814CL630GY	Middle Atlantic Products	4132	416621933	Direct Match Corrected supplier
+XB814CL530BK	Legrand	XB814CL530BK	Middle Atlantic Products	4132	416620244	Direct Match Corrected supplier
+XB814C520BN	Legrand	XB814C520BN	Middle Atlantic Products	4132	416620976	Direct Match Corrected supplier
+XB814C520BK	Legrand	XB814C520BK	Middle Atlantic Products	4132	416620977	Direct Match Corrected supplier
+V2407-2TJ	Legrand	V2407-2TJ	Middle Atlantic Products	4132	416621956	Direct Match Corrected supplier
+UTCM5	Legrand	UTCM5	Middle Atlantic Products	4132	414159181	Direct Match Corrected supplier
+V24DWNR	Legrand	V24DWNR	Middle Atlantic Products	4132	416621951	Direct Match Corrected supplier
+V2427GT	Legrand	V2427GT	Middle Atlantic Products	4132	417854500	Direct Match Corrected supplier
+RDZBK	Legrand	RDZBK	Middle Atlantic Products	4132	417484111	Direct Match Corrected supplier
+RDZWH	Legrand	RDZWH	Middle Atlantic Products	4132	417484090	Direct Match Corrected supplier
+RDSZNI	Legrand	RDSZNI	Middle Atlantic Products	4132	417484037	Direct Match Corrected supplier
+TBCRCAT6	Legrand	TBCRCAT6	Middle Atlantic Products	4132	414159179	Direct Match Corrected supplier
+TBCRHDMI	Legrand	TBCRHDMI	Middle Atlantic Products	4132	414186551	Direct Match Corrected supplier
+TBCRUSB	Legrand	TBCRUSB	Middle Atlantic Products	4132	417854071	Direct Match Corrected supplier
+TB672PPAL	Legrand	TB672PPAL	Middle Atlantic Products	4132	417875021	Direct Match Corrected supplier
+TB672PPBK	Legrand	TB672PPBK	Middle Atlantic Products	4132	417875020	Direct Match Corrected supplier
+TBCR3.5MM	Legrand	TBCR3.5MM	Middle Atlantic Products	4132	414186549	Direct Match Corrected supplier
+EFB45BTCBSTR	Legrand	EFB45BTCBSTR	Middle Atlantic Products	4132	416620714	Direct Match Corrected supplier
+1BHA	Legrand	1BHA	Middle Atlantic Products	4132	417854007	Direct Match Corrected supplier
+15FFHA	Legrand	15FFHA	Middle Atlantic Products	4132	417854004	Direct Match Corrected supplier
+10STC	Legrand	10STC	Middle Atlantic Products	4132	417482188	Direct Match Corrected supplier
+10DIV	Legrand	10DIV	Middle Atlantic Products	4132	417955782	Direct Match Corrected supplier
+10TUN	Legrand	10TUN	Middle Atlantic Products	4132	417853989	Direct Match Corrected supplier
+10ATCGY	Legrand	10ATCGY	Middle Atlantic Products	4132	416621814	Direct Match Corrected supplier
+10ATCPGY	Legrand	10ATCPGY	Middle Atlantic Products	4132	417955758	Direct Match Corrected supplier
+10CTCBK	Legrand	10CTCBK	Middle Atlantic Products	4132	416621422	Direct Match Corrected supplier
+2415DFO-FW	Legrand	2415DFO-FW	Middle Atlantic Products	4132	417854434	Direct Match Corrected supplier
+2444-2FW	Legrand	2444-2FW	Middle Atlantic Products	4132	416621944	Direct Match Corrected supplier
+2410A-FW	Legrand	2410A-FW	Middle Atlantic Products	4132	417854485	Direct Match Corrected supplier
+2410D-FW	Legrand	2410D-FW	Middle Atlantic Products	4132	417854448	Direct Match Corrected supplier
+2410FC-FW	Legrand	2410FC-FW	Middle Atlantic Products	4132	417854479	Direct Match Corrected supplier
+2411FO-FW	Legrand	2411FO-FW	Middle Atlantic Products	4132	417854464	Direct Match Corrected supplier
+2407-2CMFW	Legrand	2407-2CMFW	Middle Atlantic Products	4132	416621952	Direct Match Corrected supplier
+2407-3TJFW	Legrand	2407-3TJFW	Middle Atlantic Products	4132	416621954	Direct Match Corrected supplier
+2448-FW	Legrand	2448-FW	Middle Atlantic Products	4132	416621961	Direct Match Corrected supplier
+2444D-2NFW	Legrand	2444D-2NFW	Middle Atlantic Products	4132	416621939	Direct Match Corrected supplier
+2418DFO-FW	Legrand	2418DFO-FW	Middle Atlantic Products	4132	417854438	Direct Match Corrected supplier
+2418M-FW	Legrand	2418M-FW	Middle Atlantic Products	4132	417854483	Direct Match Corrected supplier
+2417DFO-FW	Legrand	2417DFO-FW	Middle Atlantic Products	4132	417854439	Direct Match Corrected supplier
+2417M-FW	Legrand	2417M-FW	Middle Atlantic Products	4132	417854476	Direct Match Corrected supplier
+2400WC	Legrand	2400WC	Middle Atlantic Products	4132	417854453	Direct Match Corrected supplier
+22CHA	Legrand	22CHA	Middle Atlantic Products	4132	417853775	Direct Match Corrected supplier
+2400BD-FW	Legrand	2400BD-FW	Middle Atlantic Products	4132	417854441	Direct Match Corrected supplier
+2889-WH	Legrand	2889-WH	Middle Atlantic Products	4132	416621926	Direct Match Corrected supplier
+2818FO-FW	Legrand	2818FO-FW	Middle Atlantic Products	4132	417854376	Direct Match Corrected supplier
+2706-FW	Legrand	2706-FW	Middle Atlantic Products	4132	417854406	Direct Match Corrected supplier
+2817FO-FW	Legrand	2817FO-FW	Middle Atlantic Products	4132	417854379	Direct Match Corrected supplier
+2811-FW	Legrand	2811-FW	Middle Atlantic Products	4132	417854388	Direct Match Corrected supplier
+2810B-WH	Legrand	2810B-WH	Middle Atlantic Products	4132	417854389	Direct Match Corrected supplier
+2815FO-FW	Legrand	2815FO-FW	Middle Atlantic Products	4132	417854383	Direct Match Corrected supplier
+2815-FW	Legrand	2815-FW	Middle Atlantic Products	4132	417854384	Direct Match Corrected supplier
+24DWND-FW	Legrand	24DWND-FW	Middle Atlantic Products	4132	416621948	Direct Match Corrected supplier
+2817-FW	Legrand	2817-FW	Middle Atlantic Products	4132	417854381	Direct Match Corrected supplier
+2910B-FW	Legrand	2910B-FW	Middle Atlantic Products	4132	417854368	Direct Match Corrected supplier
+2911-FW	Legrand	2911-FW	Middle Atlantic Products	4132	417854366	Direct Match Corrected supplier
+2918-FW	Legrand	2918-FW	Middle Atlantic Products	4132	417854355	Direct Match Corrected supplier
+2918FO-WH	Legrand	2918FO-WH	Middle Atlantic Products	4132	417854352	Direct Match Corrected supplier
+2986-WH	Legrand	2986-WH	Middle Atlantic Products	4132	416621923	Direct Match Corrected supplier
+2906-FW	Legrand	2906-FW	Middle Atlantic Products	4132	417854370	Direct Match Corrected supplier
+2915FO-FW	Legrand	2915FO-FW	Middle Atlantic Products	4132	417854361	Direct Match Corrected supplier
+2989-FW	Legrand	2989-FW	Middle Atlantic Products	4132	416621922	Direct Match Corrected supplier
+2710B-FW	Legrand	2710B-FW	Middle Atlantic Products	4132	417854404	Direct Match Corrected supplier
+2911FO-FW	Legrand	2911FO-FW	Middle Atlantic Products	4132	417854364	Direct Match Corrected supplier
+4GDP	Legrand	4GDP	Middle Atlantic Products	4132	417484382	Direct Match Corrected supplier
+4MAAP	Legrand	4MAAP	Middle Atlantic Products	4132	416621887	Direct Match Corrected supplier
+5BLH	Legrand	5BLH	Middle Atlantic Products	4132	417854011	Direct Match Corrected supplier
+6CTC2BZ	Legrand	6CTC2BZ	Middle Atlantic Products	4132	416621402	Direct Match Corrected supplier
+6ATC2PAVAL	Legrand	6ATC2PAVAL	Middle Atlantic Products	4132	417955765	Direct Match Corrected supplier
+6ACT8A	Legrand	6ACT8A	Middle Atlantic Products	4132	416621395	Direct Match Corrected supplier
+6ATC2PAVBZ	Legrand	6ATC2PAVBZ	Middle Atlantic Products	4132	417955756	Direct Match Corrected supplier
+6ATC2PBK	Legrand	6ATC2PBK	Middle Atlantic Products	4132	417955714	Direct Match Corrected supplier
+6ATC2PGY	Legrand	6ATC2PGY	Middle Atlantic Products	4132	417955777	Direct Match Corrected supplier
+6ATCFFBZ	Legrand	6ATCFFBZ	Middle Atlantic Products	4132	416621235	Direct Match Corrected supplier
+6CT2BZ	Legrand	6CT2BZ	Middle Atlantic Products	4132	416621407	Direct Match Corrected supplier
+6AT2PAVBZ	Legrand	6AT2PAVBZ	Middle Atlantic Products	4132	417483007	Direct Match Corrected supplier
+6AT2PBK	Legrand	6AT2PBK	Middle Atlantic Products	4132	417483199	Direct Match Corrected supplier
+6AT2PGY	Legrand	6AT2PGY	Middle Atlantic Products	4132	417483059	Direct Match Corrected supplier
+6ATC2PAL	Legrand	6ATC2PAL	Middle Atlantic Products	4132	417955755	Direct Match Corrected supplier
+6STCP	Legrand	6STCP	Middle Atlantic Products	4132	417483214	Direct Match Corrected supplier
+6PPS	Legrand	6PPS	Middle Atlantic Products	4132	417854013	Direct Match Corrected supplier
+6AT2BZ	Legrand	6AT2BZ	Middle Atlantic Products	4132	416621832	Direct Match Corrected supplier
+8CTC2BK	Legrand	8CTC2BK	Middle Atlantic Products	4132	416621387	Direct Match Corrected supplier
+8PPS	Legrand	8PPS	Middle Atlantic Products	4132	417854001	Direct Match Corrected supplier
+8ATC2PBZ	Legrand	8ATC2PBZ	Middle Atlantic Products	4132	417955754	Direct Match Corrected supplier
+8MOS	Legrand	8MOS	Middle Atlantic Products	4132	417853999	Direct Match Corrected supplier
+8AT2PBZ	Legrand	8AT2PBZ	Middle Atlantic Products	4132	417955781	Direct Match Corrected supplier
+8ATC2PBK	Legrand	8ATC2PBK	Middle Atlantic Products	4132	417955760	Direct Match Corrected supplier
+8STCP	Legrand	8STCP	Middle Atlantic Products	4132	417483224	Direct Match Corrected supplier
+8AT2BZ	Legrand	8AT2BZ	Middle Atlantic Products	4132	416621833	Direct Match Corrected supplier
+8CT2BZ	Legrand	8CT2BZ	Middle Atlantic Products	4132	416621391	Direct Match Corrected supplier
+ABPLUG4	Legrand	ABPLUG4	Middle Atlantic Products	4132	416621850	Direct Match Corrected supplier
+AMD8ATCAA	Legrand	AMD8ATCAA	Middle Atlantic Products	4132	416621853	Direct Match Corrected supplier
+AMD8ATCAL	Legrand	AMD8ATCAL	Middle Atlantic Products	4132	416620887	Direct Match Corrected supplier
+AMD8ATCBS	Legrand	AMD8ATCBS	Middle Atlantic Products	4132	416621845	Direct Match Corrected supplier
+AMD8CTCAA	Legrand	AMD8CTCAA	Middle Atlantic Products	4132	416621205	Direct Match Corrected supplier
+AMD8CTCAL	Legrand	AMD8CTCAL	Middle Atlantic Products	4132	416621202	Direct Match Corrected supplier
+AMD8CTCBS	Legrand	AMD8CTCBS	Middle Atlantic Products	4132	416621448	Direct Match Corrected supplier
+AMD8SHTCBK	Legrand	AMD8SHTCBK	Middle Atlantic Products	4132	416621849	Direct Match Corrected supplier
+AMD8SHTCGY	Legrand	AMD8SHTCGY	Middle Atlantic Products	4132	416621847	Direct Match Corrected supplier
+AV3SHTCBS	Legrand	AV3SHTCBS	Middle Atlantic Products	4132	416621799	Direct Match Corrected supplier
+AV3STC	Legrand	AV3STC	Middle Atlantic Products	4132	416621808	Direct Match Corrected supplier
+AV3APTCGY	Legrand	AV3APTCGY	Middle Atlantic Products	4132	416621809	Direct Match Corrected supplier
+AV3ATCAB	Legrand	AV3ATCAB	Middle Atlantic Products	4132	416621796	Direct Match Corrected supplier
+AV3ATCBK	Legrand	AV3ATCBK	Middle Atlantic Products	4132	416621795	Direct Match Corrected supplier
+AV6001BK	Legrand	AV6001BK	Middle Atlantic Products	4132	417853689	Direct Match Corrected supplier
+AV7004BK	Legrand	AV7004BK	Middle Atlantic Products	4132	417854298	Direct Match Corrected supplier
+AV8008BK	Legrand	AV8008BK	Middle Atlantic Products	4132	417853645	Direct Match Corrected supplier
+AV8010BK	Legrand	AV8010BK	Middle Atlantic Products	4132	417853836	Direct Match Corrected supplier
+AV8012BK	Legrand	AV8012BK	Middle Atlantic Products	4132	417853713	Direct Match Corrected supplier
+AV8014BK	Legrand	AV8014BK	Middle Atlantic Products	4132	417874986	Direct Match Corrected supplier
+AV8016BK	Legrand	AV8016BK	Middle Atlantic Products	4132	417874988	Direct Match Corrected supplier
+AV5004BK	Legrand	AV5004BK	Middle Atlantic Products	4132	417854205	Direct Match Corrected supplier
+AV1000BK	Legrand	AV1000BK	Middle Atlantic Products	4132	417853776	Direct Match Corrected supplier
+AV4005BK	Legrand	AV4005BK	Middle Atlantic Products	4132	417853680	Direct Match Corrected supplier
+AV3ATCGY	Legrand	AV3ATCGY	Middle Atlantic Products	4132	416621792	Direct Match Corrected supplier
+AV3CTCAB	Legrand	AV3CTCAB	Middle Atlantic Products	4132	416621806	Direct Match Corrected supplier
+AV3CTCBK	Legrand	AV3CTCBK	Middle Atlantic Products	4132	416621805	Direct Match Corrected supplier
+AV3CTCGY	Legrand	AV3CTCGY	Middle Atlantic Products	4132	416621802	Direct Match Corrected supplier
+AV3SHTCBK	Legrand	AV3SHTCBK	Middle Atlantic Products	4132	416621801	Direct Match Corrected supplier
+VUO34-18NO1	Littelfuse	VUO34-18NO1	IXYS	1353	18788830	Direct Match Corrected supplier
+VUO36-18NO8	Littelfuse	VUO36-18NO8	IXYS	1353	18788828	Direct Match Corrected supplier
+VUB120-16NOXT	Littelfuse	VUB120-16NOXT	IXYS	1353	47785900	Direct Match Corrected supplier
+IX4340NE	Littelfuse	IX4340NE	IXYS	1353	88706300	Direct Match Corrected supplier
+C78168-000	Littelfuse	C78168-000	TE Connectivity	1629	47139987	Direct Match Corrected supplier
+PM1204STR	Littelfuse	PM1204STR	IXYS	1353	17387131	Direct Match Corrected supplier
+RUEF300K-0.138	Littelfuse	RUEF300K-0.138	TE Connectivity	1629	56414587	Direct Match Corrected supplier
+NCD2400M1TR	Littelfuse	NCD2400M1TR	IXYS	1353	404812070	Direct Match Corrected supplier
+VLR230-C36F	Littelfuse	VLR230-C36F	TE Connectivity	1629	48703045	Direct Match Corrected supplier
+VTP210	Littelfuse	VTP210	TE Connectivity	1629	14612407	Direct Match Corrected supplier
+VTP175	Littelfuse	VTP175	TE Connectivity	1629	14612571	Direct Match Corrected supplier
+TS250-130F-RC-2	Littelfuse	TS250-130F-RC-2	TE Connectivity	1629	33078572	Direct Match Corrected supplier
+TRF250-090UT	Littelfuse	TRF250-090UT	TE Connectivity	1629	62416698	Direct Match Corrected supplier
+FUS45-0045B	Littelfuse	FUS45-0045B	IXYS	1353	32524099	Direct Match Corrected supplier
+DSDI60-16A	Littelfuse	DSDI60-16A	IXYS	1353	18526974	Direct Match Corrected supplier
+DNA30E2200PA	Littelfuse	DNA30E2200PA	IXYS	1353	44862925	Direct Match Corrected supplier
+K-080080-10-1A	Littelfuse	K-080080-10-1A	TE Connectivity	1629	33531587	Direct Match Corrected supplier
+GTCS25-421M-R02-2	Littelfuse	GTCS25-421M-R02-2	TE Connectivity	1629	66390180	Direct Match Corrected supplier
+RHEF050US	Littelfuse	RHEF050US	TE Connectivity	1629	34347782	Direct Match Corrected supplier
+RGEF1000K	Littelfuse	RGEF1000K	TE Connectivity	1629	48313120	Direct Match Corrected supplier
+AHRF200S-RA	Littelfuse	AHRF200S-RA	TE Connectivity	1629	62416308	Direct Match Corrected supplier
+AGRF1400C-0.138	Littelfuse	AGRF1400C-0.138	TE Connectivity	1629	62339980	Direct Match Corrected supplier
+AHR1300	Littelfuse	AHR1300	TE Connectivity	1629	18733502	Direct Match Corrected supplier
+AHR450-2	Littelfuse	AHR450-2	TE Connectivity	1629	31972140	Direct Match Corrected supplier
+AHR600	Littelfuse	AHR600	TE Connectivity	1629	18733505	Direct Match Corrected supplier
+AHR750-AP	Littelfuse	AHR750-AP	TE Connectivity	1629	31971970	Direct Match Corrected supplier
+DMA150E1600NA	Littelfuse	DMA150E1600NA	IXYS	1353	46232902	Direct Match Corrected supplier
+IX4426N	Littelfuse	IX4426N	IXYS	1353	53323274	Direct Match Corrected supplier
+VBE55-06NO7	Littelfuse	VBE55-06NO7	IXYS	1353	18788902	Direct Match Corrected supplier
+MSDM20-0118	MACOM Technology Solutions	MSDM20-0118	Cobham plc	15049	52798891	Direct Match Corrected supplier
+SXM247A	Mallory Sonalert Products	SXM247A	Cornell Dubilier Electronics	1204	27985049	Direct Match Corrected supplier
+CM400E3Y6-24NFH	Mitsubishi Electric	CM400E3Y6-24NFH	Powerex	1512	62631389	Direct Match Corrected supplier
+CM600E3U-12NFH	Mitsubishi Electric	CM600E3U-12NFH	Powerex	1512	52979015	Direct Match Corrected supplier
+B39911B3943H110	Qualcomm (RF360 - A Qualcomm & TDK Joint Venture)	B39911B3943H110	TDK	1600	405847569	Direct Match Corrected supplier
+P51-500-A-A-I36-5V-000-000	SSI Controls Technologies	P51-500-A-A-I36-5V-000-000	Amphenol	1761	413912418	Direct Match Corrected supplier
+SDINEDK4-256G	SanDisk	SDINEDK4-256G	Western Digital	3523	424077942	Direct Match Corrected supplier
+SDSDQAF4-016G-I	SanDisk	SDSDQAF4-016G-I	Western Digital	3523	416133357	Direct Match Corrected supplier
+SDSDQAF4-064G-I	SanDisk	SDSDQAF4-064G-I	Western Digital	3523	416133355	Direct Match Corrected supplier
+SDSDAF4-016G-I	SanDisk	SDSDAF4-016G-I	Western Digital	3523	414203705	Direct Match Corrected supplier
+SDSDAF4-128G-I	SanDisk	SDSDAF4-128G-I	Western Digital	3523	414203708	Direct Match Corrected supplier
+SDINDDH6-128G-ZA	SanDisk	SDINDDH6-128G-ZA	Western Digital	3523	410195752	Direct Match Corrected supplier
+SDBPNPZ-256G-10SB	SanDisk	SDBPNPZ-256G-10SB	Western Digital	3523	419884341	Direct Match Corrected supplier
+SDBPNPZ-340G-XI	SanDisk	SDBPNPZ-340G-XI	Western Digital	3523	419884433	Direct Match Corrected supplier
+SDBPTPZ-085G-XI	SanDisk	SDBPTPZ-085G-XI	Western Digital	3523	419884439	Direct Match Corrected supplier
+SDBPTPZ-1T00-XI	SanDisk	SDBPTPZ-1T00-XI	Western Digital	3523	419884434	Direct Match Corrected supplier
+SDAQNTW-256G-2000	SanDisk	SDAQNTW-256G-2000	Western Digital	3523	410218690	Direct Match Corrected supplier
+SDBPTPZ-340G-XI	SanDisk	SDBPTPZ-340G-XI	Western Digital	3523	419884437	Direct Match Corrected supplier
+SDBQNTY-1T00	SanDisk	SDBQNTY-1T00	Western Digital	3523	419884053	Direct Match Corrected supplier
+SDASN8Y-1T00	SanDisk	SDASN8Y-1T00	Western Digital	3523	407688806	Direct Match Corrected supplier
+SDINDDH6-256G-ZA	SanDisk	SDINDDH6-256G-ZA	Western Digital	3523	410195788	Direct Match Corrected supplier
+SDINDDH6-32G-ZA	SanDisk	SDINDDH6-32G-ZA	Western Digital	3523	410195838	Direct Match Corrected supplier
+SDINDDH6-64G-ZA	SanDisk	SDINDDH6-64G-ZA	Western Digital	3523	410195842	Direct Match Corrected supplier
+SDINBDA6-64G-I	SanDisk	SDINBDA6-64G-I	Western Digital	3523	408064489	Direct Match Corrected supplier
+SDINBDA6-128G-XI	SanDisk	SDINBDA6-128G-XI	Western Digital	3523	419364897	Direct Match Corrected supplier
+SDINBDA6-128G-ZA1	SanDisk	SDINBDA6-128G-ZA1	Western Digital	3523	1846108673	Direct Match Corrected supplier
+SDINBDA6-16G-I	SanDisk	SDINBDA6-16G-I	Western Digital	3523	408064491	Direct Match Corrected supplier
+SDINBDA6-256G-XI	SanDisk	SDINBDA6-256G-XI	Western Digital	3523	423245297	Direct Match Corrected supplier
+SDINBDA6-32G-I	SanDisk	SDINBDA6-32G-I	Western Digital	3523	408064490	Direct Match Corrected supplier
+SDBPNPZ-170G-XI	SanDisk	SDBPNPZ-170G-XI	Western Digital	3523	419884432	Direct Match Corrected supplier
+SDBPNPZ-1T00-10SB	SanDisk	SDBPNPZ-1T00-10SB	Western Digital	3523	419884343	Direct Match Corrected supplier
+SDBQNPZ-256G	SanDisk	SDBQNPZ-256G	Western Digital	3523	419884054	Direct Match Corrected supplier
+SDBPMPZ-1T00	SanDisk	SDBPMPZ-1T00	Western Digital	3523	419042368	Direct Match Corrected supplier
+SDBQNPZ-1T00	SanDisk	SDBQNPZ-1T00	Western Digital	3523	419884056	Direct Match Corrected supplier
+SDBPMPZ-256G	SanDisk	SDBPMPZ-256G	Western Digital	3523	419042363	Direct Match Corrected supplier
+SDBPTPZ-256G	SanDisk	SDBPTPZ-256G	Western Digital	3523	419042362	Direct Match Corrected supplier
+SDINBDG4-32G-XI2	SanDisk	SDINBDG4-32G-XI2	Western Digital	3523	419774107	Direct Match Corrected supplier
+SDDPTQD-256G	SanDisk	SDDPTQD-256G	Western Digital	3523	1846026128	Direct Match Corrected supplier
+SDINFDK4-256G	SanDisk	SDINFDK4-256G	Western Digital	3523	422099829	Direct Match Corrected supplier
+GV200CAB-1	Sensata Technologies	GV200CAB-1	GIGAVAC	8759	74602171	Direct Match Corrected supplier
+HAL3726DJ	TDK-Micronas GmbH	HAL3726DJ	TDK	1600	421951475	Direct Match Corrected supplier
+BVNV-N069	TE Connectivity	BVNV-N069	ABB Installation Products, Inc	3165	83511303	Direct Match Corrected supplier
+BVNV-N069	TE Connectivity	BVNV-N069	"ABB Installation Products, Inc"	3165	83511303	Direct Match Corrected supplier
+T3CP500-5	Teledyne LeCroy	T3CP500-5	Teledyne Technologies	1603	424202391	Direct Match Corrected supplier
+T3CP150-12	Teledyne LeCroy	T3CP150-12	Teledyne Technologies	1603	424202388	Direct Match Corrected supplier
+T3CP30-50	Teledyne LeCroy	T3CP30-50	Teledyne Technologies	1603	424202390	Direct Match Corrected supplier
+TC-500-NFC	Times Microwave Systems	TC-500-NFC	Amphenol	1761	83879491	Direct Match Corrected supplier
+ULA2AAA	UltraLast Batteries	ULA2AAA	Dantona Industries	3825	405358188	Direct Match Corrected supplier
+ULGHP4AA	UltraLast Batteries	ULGHP4AA	Dantona Industries	3825	405358242	Direct Match Corrected supplier
+ULGHP2AA	UltraLast Batteries	ULGHP2AA	Dantona Industries	3825	405358226	Direct Match Corrected supplier
+NTL12-002M	Yageo	NTL12-002M	Brightking	20503	421224676	Direct Match Corrected supplier
+NTD04-005M	Yageo	NTD04-005M	Brightking	20503	421224596	Direct Match Corrected supplier
+NTE04-005M	Yageo	NTE04-005M	Brightking	20503	421224548	Direct Match Corrected supplier
+NTJ06-015M	Yageo	NTJ06-015M	Brightking	20503	421224549	Direct Match Corrected supplier
+LBT23C24L02	Yageo	LBT23C24L02	Brightking	20503	406026919	Direct Match Corrected supplier
+NTL10-005M	Yageo	NTL10-005M	Brightking	20503	421224647	Direct Match Corrected supplier
+BWVS00808040100M00	Yageo	BWVS00808040100M00	Chilisin	2350	94944885	Direct Match Corrected supplier
+BWCS0012070715NG00	Yageo	BWCS0012070715NG00	Chilisin	2350	94947651	Direct Match Corrected supplier
+BWCS0016100810NG00	Yageo	BWCS0016100810NG00	Chilisin	2350	94948129	Direct Match Corrected supplier
+BWCS00161008R15G00	Yageo	BWCS00161008R15G00	Chilisin	2350	94947047	Direct Match Corrected supplier
+BWVF00252012100M00	Yageo	BWVF00252012100M00	Chilisin	2350	94943816	Direct Match Corrected supplier
+BWVF002520124R7M00	Yageo	BWVF002520124R7M00	Chilisin	2350	94944010	Direct Match Corrected supplier
+BWVF003030151R5M00	Yageo	BWVF003030151R5M00	Chilisin	2350	94944565	Direct Match Corrected supplier
+BWVF003030154R7M00	Yageo	BWVF003030154R7M00	Chilisin	2350	94944168	Direct Match Corrected supplier
+BWVS004040182R2M00	Yageo	BWVS004040182R2M00	Chilisin	2350	94944543	Direct Match Corrected supplier
+BWVS005050202R2M00	Yageo	BWVS005050202R2M00	Chilisin	2350	94944726	Direct Match Corrected supplier
+BDHE002520122R2MQ1	Yageo	BDHE002520122R2MQ1	Chilisin	2350	94944638	Direct Match Corrected supplier
+BBPY00160808102Y00	Yageo	BBPY00160808102Y00	Chilisin	2350	95195577	Direct Match Corrected supplier
+BBPY00160808181Y00	Yageo	BBPY00160808181Y00	Chilisin	2350	95195578	Direct Match Corrected supplier
+BBPY00160808301Y00	Yageo	BBPY00160808301Y00	Chilisin	2350	95195662	Direct Match Corrected supplier
+BBPY00321611121Y00	Yageo	BBPY00321611121Y00	Chilisin	2350	95195622	Direct Match Corrected supplier
+BBBK00160808102Y00	Yageo	BBBK00160808102Y00	Chilisin	2350	95195599	Direct Match Corrected supplier
+BBBK00160808601Y00	Yageo	BBBK00160808601Y00	Chilisin	2350	95195322	Direct Match Corrected supplier
+BBPY00100505100Y00	Yageo	BBPY00100505100Y00	Chilisin	2350	95195655	Direct Match Corrected supplier
+BBPY00100505121Y00	Yageo	BBPY00100505121Y00	Chilisin	2350	95195391	Direct Match Corrected supplier
+BBPY00100505600Y00	Yageo	BBPY00100505600Y00	Chilisin	2350	95195393	Direct Match Corrected supplier
+BBPY00160808100Y00	Yageo	BBPY00160808100Y00	Chilisin	2350	95195576	Direct Match Corrected supplier
+BWVS00505040100M00	Yageo	BWVS00505040100M00	Chilisin	2350	94944461	Direct Match Corrected supplier
+BWVS00606045100M00	Yageo	BWVS00606045100M00	Chilisin	2350	98740699	Direct Match Corrected supplier
+BSCH0010050556NJCP	Yageo	BSCH0010050556NJCP	Chilisin	2350	95025279	Direct Match Corrected supplier
+BSCH0010050568NJCP	Yageo	BSCH0010050568NJCP	Chilisin	2350	95025167	Direct Match Corrected supplier
+BSCH0010050582NJCP	Yageo	BSCH0010050582NJCP	Chilisin	2350	95024925	Direct Match Corrected supplier
+BSCH00100505R10JCS	Yageo	BSCH00100505R10JCS	Chilisin	2350	95023139	Direct Match Corrected supplier
+BSCH0016080812NJ00	Yageo	BSCH0016080812NJ00	Chilisin	2350	95024367	Direct Match Corrected supplier
+BSCH001608082N7S00	Yageo	BSCH001608082N7S00	Chilisin	2350	95024318	Direct Match Corrected supplier
+BSCH001608083N9S00	Yageo	BSCH001608083N9S00	Chilisin	2350	95024464	Direct Match Corrected supplier
+BSCH001608084N7S00	Yageo	BSCH001608084N7S00	Chilisin	2350	95024342	Direct Match Corrected supplier
+BSCH001608085N6S00	Yageo	BSCH001608085N6S00	Chilisin	2350	95024330	Direct Match Corrected supplier
+BSCH001608086N8J00	Yageo	BSCH001608086N8J00	Chilisin	2350	95024353	Direct Match Corrected supplier
+BPSD000504322R2K00	Yageo	BPSD000504322R2K00	Chilisin	2350	94949628	Direct Match Corrected supplier
+BSCH000603032N7S00	Yageo	BSCH000603032N7S00	Chilisin	2350	94949110	Direct Match Corrected supplier
+BSCH0010050512NJCP	Yageo	BSCH0010050512NJCP	Chilisin	2350	95025229	Direct Match Corrected supplier
+BSCH0010050518NJCP	Yageo	BSCH0010050518NJCP	Chilisin	2350	95025005	Direct Match Corrected supplier
+BSCH001005051N2SCP	Yageo	BSCH001005051N2SCP	Chilisin	2350	95025348	Direct Match Corrected supplier
+BSCH001005051N8SCP	Yageo	BSCH001005051N8SCP	Chilisin	2350	95025059	Direct Match Corrected supplier
+BSCH0010050527NJCP	Yageo	BSCH0010050527NJCP	Chilisin	2350	95024870	Direct Match Corrected supplier
+BSCH001005052N2SCP	Yageo	BSCH001005052N2SCP	Chilisin	2350	95024917	Direct Match Corrected supplier
+BSCH001005052N7SCP	Yageo	BSCH001005052N7SCP	Chilisin	2350	95025144	Direct Match Corrected supplier
+BSCH001005053N0SCP	Yageo	BSCH001005053N0SCP	Chilisin	2350	95025298	Direct Match Corrected supplier
+BSCH001005053N9SCP	Yageo	BSCH001005053N9SCP	Chilisin	2350	95025175	Direct Match Corrected supplier
+BMRA00060630R47MA1	Yageo	BMRA00060630R47MA1	Chilisin	2350	94944374	Direct Match Corrected supplier
+BMRB00060630100MA1	Yageo	BMRB00060630100MA1	Chilisin	2350	94945148	Direct Match Corrected supplier
+BPSC00101140100M00	Yageo	BPSC00101140100M00	Chilisin	2350	94949043	Direct Match Corrected supplier
+BMRA000404201R0MA1	Yageo	BMRA000404201R0MA1	Chilisin	2350	94945069	Direct Match Corrected supplier
+BMRA000505304R7MA1	Yageo	BMRA000505304R7MA1	Chilisin	2350	94945157	Direct Match Corrected supplier
+BMRA000606301R5MA1	Yageo	BMRA000606301R5MA1	Chilisin	2350	94945417	Direct Match Corrected supplier
+BMRA000606303R3MA1	Yageo	BMRA000606303R3MA1	Chilisin	2350	94945347	Direct Match Corrected supplier
+BDCD002520122R2MS1	Yageo	BDCD002520122R2MS1	Chilisin	2350	94944521	Direct Match Corrected supplier
+BDHE002016102R2MQ1	Yageo	BDHE002016102R2MQ1	Chilisin	2350	94944478	Direct Match Corrected supplier
+BSCH001608088N2J00	Yageo	BSCH001608088N2J00	Chilisin	2350	95024454	Direct Match Corrected supplier
+BSCH00160808R12J00	Yageo	BSCH00160808R12J00	Chilisin	2350	95023785	Direct Match Corrected supplier
+BSCQ000603031N0B00	Yageo	BSCQ000603031N0B00	Chilisin	2350	94948304	Direct Match Corrected supplier
+BSCH001005054N7SCP	Yageo	BSCH001005054N7SCP	Chilisin	2350	95024875	Direct Match Corrected supplier
+SDT23C24L02	Yageo	SDT23C24L02	Brightking	20503	406027013	Direct Match Corrected supplier
+1.5SMC91A/TR7	Yageo	1.5SMC91A/TR7	Brightking	20503	419866110	Direct Match Corrected supplier
+P6KE13CA/TR13	Yageo	P6KE13CA/TR13	Brightking	20503	419864259	Direct Match Corrected supplier
+391KD07-TR	Yageo	391KD07-TR	Brightking	20503	414623162	Direct Match Corrected supplier
+CL65BJ600MPE	Vishay	CL65BJ600MPE	Cornell Dubilier Electronics	1204	43464180	Direct Match Corrected supplier
+POS300GT-77-10KAA	Yageo	POS300GT-77-10KAA	VITROHM	25451	404171188	Direct Match Corrected supplier
+BWCU00201212900Y03	Yageo	BWCU00201212900Y03	Chilisin	2350	95195177	Direct Match Corrected supplier
+BMRA000606306R8MA1	Yageo	BMRA000606306R8MA1	Chilisin	2350	94945073	Direct Match Corrected supplier
+BMRF00060630100MA1	Yageo	BMRF00060630100MA1	Chilisin	2350	94945158	Direct Match Corrected supplier
+SDT23C712L02	Yageo	SDT23C712L02	Brightking	20503	406026999	Direct Match Corrected supplier
+KHS500JR-83-100RAA	Yageo	KHS500JR-83-100RAA	VITROHM	25451	101018437	Direct Match Corrected supplier
+LTS08A06L02	Yageo	LTS08A06L02	Brightking	20503	406026923	Direct Match Corrected supplier
+P4SMA130A-AT/TR7	Yageo	P4SMA130A-AT/TR7	Brightking	20503	419866647	Direct Match Corrected supplier
+P4SMA10CA-AT/TR13	Yageo	P4SMA10CA-AT/TR13	Brightking	20503	419865706	Direct Match Corrected supplier
+P4SMA150CA-AT/TR13	Yageo	P4SMA150CA-AT/TR13	Brightking	20503	419864655	Direct Match Corrected supplier
+P4SMA24A-AT/TR13	Yageo	P4SMA24A-AT/TR13	Brightking	20503	419864556	Direct Match Corrected supplier
+P4SMA43CA-AT/TR7	Yageo	P4SMA43CA-AT/TR7	Brightking	20503	419865349	Direct Match Corrected supplier
+P4SMA6.8CA/TR7	Yageo	P4SMA6.8CA/TR7	Brightking	20503	419863591	Direct Match Corrected supplier
+P4SMA62A-AT/TR7	Yageo	P4SMA62A-AT/TR7	Brightking	20503	419865959	Direct Match Corrected supplier
+P4SMA170A-AT/TR13	Yageo	P4SMA170A-AT/TR13	Brightking	20503	419866185	Direct Match Corrected supplier
+P4SMA180A-AT/TR7	Yageo	P4SMA180A-AT/TR7	Brightking	20503	419864359	Direct Match Corrected supplier
+P4SMA39A-AT/TR7	Yageo	P4SMA39A-AT/TR7	Brightking	20503	419865570	Direct Match Corrected supplier
+P4SMA100CA-AT/TR13	Yageo	P4SMA100CA-AT/TR13	Brightking	20503	419865452	Direct Match Corrected supplier
+P4SMA15CA-AT/TR7	Yageo	P4SMA15CA-AT/TR7	Brightking	20503	419866036	Direct Match Corrected supplier
+P6SMB22A/TR7	Yageo	P6SMB22A/TR7	Brightking	20503	419863994	Direct Match Corrected supplier
+P6SMB15A/TR7	Yageo	P6SMB15A/TR7	Brightking	20503	419865821	Direct Match Corrected supplier
+P6KE120CA/TR13	Yageo	P6KE120CA/TR13	Brightking	20503	419864795	Direct Match Corrected supplier
+P6SMB150A/TR7	Yageo	P6SMB150A/TR7	Brightking	20503	419865657	Direct Match Corrected supplier
+P6KE120A/TR13	Yageo	P6KE120A/TR13	Brightking	20503	419863411	Direct Match Corrected supplier
+P6KE160CA/TR13	Yageo	P6KE160CA/TR13	Brightking	20503	419864398	Direct Match Corrected supplier
+P4SMA91CA-AT/TR13	Yageo	P4SMA91CA-AT/TR13	Brightking	20503	419863543	Direct Match Corrected supplier
+P6SMB120CA/TR7	Yageo	P6SMB120CA/TR7	Brightking	20503	419867238	Direct Match Corrected supplier
+P6KE24CA/TR13	Yageo	P6KE24CA/TR13	Brightking	20503	419867222	Direct Match Corrected supplier
+P6KE27CA/TR13	Yageo	P6KE27CA/TR13	Brightking	20503	419865034	Direct Match Corrected supplier
+P6KE9.1CA/TR13	Yageo	P6KE9.1CA/TR13	Brightking	20503	419865650	Direct Match Corrected supplier
+P6KE51A/TR13	Yageo	P6KE51A/TR13	Brightking	20503	419864387	Direct Match Corrected supplier
+P6KE550CA/TR13	Yageo	P6KE550CA/TR13	Brightking	20503	419865990	Direct Match Corrected supplier
+P6KE24A/TR13	Yageo	P6KE24A/TR13	Brightking	20503	419864117	Direct Match Corrected supplier
+P4SMA82CA-AT/TR13	Yageo	P4SMA82CA-AT/TR13	Brightking	20503	419866541	Direct Match Corrected supplier
+P4SMA100CA-AT/TR7	Yageo	P4SMA100CA-AT/TR7	Brightking	20503	419867028	Direct Match Corrected supplier
+P4SMA13CA-AT/TR13	Yageo	P4SMA13CA-AT/TR13	Brightking	20503	419866265	Direct Match Corrected supplier
+P4SMA400CA/TR7	Yageo	P4SMA400CA/TR7	Brightking	20503	419865571	Direct Match Corrected supplier
+P4SMA47CA-AT/TR7	Yageo	P4SMA47CA-AT/TR7	Brightking	20503	419863495	Direct Match Corrected supplier
+P4SMA68A-AT/TR7	Yageo	P4SMA68A-AT/TR7	Brightking	20503	419864305	Direct Match Corrected supplier
+P4SMA43A-AT/TR7	Yageo	P4SMA43A-AT/TR7	Brightking	20503	419866667	Direct Match Corrected supplier
+P4SMA68CA-AT/TR7	Yageo	P4SMA68CA-AT/TR7	Brightking	20503	419863850	Direct Match Corrected supplier
+P4SMA100A-AT/TR13	Yageo	P4SMA100A-AT/TR13	Brightking	20503	419866860	Direct Match Corrected supplier
+P4SMA170CA-AT/TR13	Yageo	P4SMA170CA-AT/TR13	Brightking	20503	419866944	Direct Match Corrected supplier
+P4SMA200A-AT/TR7	Yageo	P4SMA200A-AT/TR7	Brightking	20503	419863803	Direct Match Corrected supplier
+P4SMA250A-AT/TR7	Yageo	P4SMA250A-AT/TR7	Brightking	20503	419863346	Direct Match Corrected supplier
+P4SMA33A-AT/TR7	Yageo	P4SMA33A-AT/TR7	Brightking	20503	419865154	Direct Match Corrected supplier
+P4SMA56CA-AT/TR13	Yageo	P4SMA56CA-AT/TR13	Brightking	20503	419864197	Direct Match Corrected supplier
+P4SMA62CA-AT/TR7	Yageo	P4SMA62CA-AT/TR7	Brightking	20503	419864225	Direct Match Corrected supplier
+P4SMA250CA-AT/TR13	Yageo	P4SMA250CA-AT/TR13	Brightking	20503	419865070	Direct Match Corrected supplier
+P4SMA30CA-AT/TR7	Yageo	P4SMA30CA-AT/TR7	Brightking	20503	419864944	Direct Match Corrected supplier
+P6KE30A/TR13	Yageo	P6KE30A/TR13	Brightking	20503	419863955	Direct Match Corrected supplier
+P6KE39CA/TR13	Yageo	P6KE39CA/TR13	Brightking	20503	419866266	Direct Match Corrected supplier
+P6KE480CA/TR13	Yageo	P6KE480CA/TR13	Brightking	20503	419863888	Direct Match Corrected supplier
+P6KE510CA/TR13	Yageo	P6KE510CA/TR13	Brightking	20503	419866566	Direct Match Corrected supplier
+P6KE530CA/TR13	Yageo	P6KE530CA/TR13	Brightking	20503	419867002	Direct Match Corrected supplier
+P6KE540CA/TR13	Yageo	P6KE540CA/TR13	Brightking	20503	419865855	Direct Match Corrected supplier
+P6KE8.2A/TR13	Yageo	P6KE8.2A/TR13	Brightking	20503	419863579	Direct Match Corrected supplier
+P6KE22CA/TR13	Yageo	P6KE22CA/TR13	Brightking	20503	419864533	Direct Match Corrected supplier
+P6KE56CA/TR13	Yageo	P6KE56CA/TR13	Brightking	20503	419864288	Direct Match Corrected supplier
+P6KE7.5A/TR13	Yageo	P6KE7.5A/TR13	Brightking	20503	419866177	Direct Match Corrected supplier
+P6KE91A/TR13	Yageo	P6KE91A/TR13	Brightking	20503	419866569	Direct Match Corrected supplier
+P6SMB11CA/TR7	Yageo	P6SMB11CA/TR7	Brightking	20503	419864040	Direct Match Corrected supplier
+P6SMB62CA/TR7	Yageo	P6SMB62CA/TR7	Brightking	20503	419865825	Direct Match Corrected supplier
+P6KE300CA/TR13	Yageo	P6KE300CA/TR13	Brightking	20503	419865876	Direct Match Corrected supplier
+P6KE43CA/TR13	Yageo	P6KE43CA/TR13	Brightking	20503	419865730	Direct Match Corrected supplier
+P6KE56A-AT/B	Yageo	P6KE56A-AT/B	Brightking	20503	419863027	Direct Match Corrected supplier
+P6KE6.8A/TR13	Yageo	P6KE6.8A/TR13	Brightking	20503	419864941	Direct Match Corrected supplier
+P6KE68CA/TR13	Yageo	P6KE68CA/TR13	Brightking	20503	419866672	Direct Match Corrected supplier
+P6KE82A/TR13	Yageo	P6KE82A/TR13	Brightking	20503	419866852	Direct Match Corrected supplier
+P6KE30CA/TR13	Yageo	P6KE30CA/TR13	Brightking	20503	419865804	Direct Match Corrected supplier
+P6KE36CA/TR13	Yageo	P6KE36CA/TR13	Brightking	20503	419866276	Direct Match Corrected supplier
+P6KE47CA/TR13	Yageo	P6KE47CA/TR13	Brightking	20503	419864083	Direct Match Corrected supplier
+P6KE130A/TR13	Yageo	P6KE130A/TR13	Brightking	20503	419865240	Direct Match Corrected supplier
+P6KE220A/TR13	Yageo	P6KE220A/TR13	Brightking	20503	419865853	Direct Match Corrected supplier
+P6SMB6.8A/TR7	Yageo	P6SMB6.8A/TR7	Brightking	20503	419863406	Direct Match Corrected supplier
+P6SMB350CA-AT/TR13	Yageo	P6SMB350CA-AT/TR13	Brightking	20503	419866867	Direct Match Corrected supplier
+SA78CA/TR13	Yageo	SA78CA/TR13	Brightking	20503	419864660	Direct Match Corrected supplier
+SA48A/TR13	Yageo	SA48A/TR13	Brightking	20503	419867184	Direct Match Corrected supplier
+SA45CA/TR13	Yageo	SA45CA/TR13	Brightking	20503	419866910	Direct Match Corrected supplier
+SAC8.0/TR13	Yageo	SAC8.0/TR13	Brightking	20503	419863372	Direct Match Corrected supplier
+SAC5.0/TR13	Yageo	SAC5.0/TR13	Brightking	20503	419863210	Direct Match Corrected supplier
+SA12A/TR13	Yageo	SA12A/TR13	Brightking	20503	419867216	Direct Match Corrected supplier
+SA190A/B	Yageo	SA190A/B	Brightking	20503	419865582	Direct Match Corrected supplier
+SA43CA/TR13	Yageo	SA43CA/TR13	Brightking	20503	419867006	Direct Match Corrected supplier
+SA43A/TR13	Yageo	SA43A/TR13	Brightking	20503	419866147	Direct Match Corrected supplier
+SBD8C05L01	Yageo	SBD8C05L01	Brightking	20503	406027018	Direct Match Corrected supplier
+SA90CA/TR13	Yageo	SA90CA/TR13	Brightking	20503	419866259	Direct Match Corrected supplier
+SA36A/TR13	Yageo	SA36A/TR13	Brightking	20503	419862084	Direct Match Corrected supplier
+SA90A/TR13	Yageo	SA90A/TR13	Brightking	20503	419865794	Direct Match Corrected supplier
+SA60CA/TR13	Yageo	SA60CA/TR13	Brightking	20503	419865716	Direct Match Corrected supplier
+SA51CA/TR13	Yageo	SA51CA/TR13	Brightking	20503	419864141	Direct Match Corrected supplier
+SA15A/TR13	Yageo	SA15A/TR13	Brightking	20503	419866106	Direct Match Corrected supplier
+SA6.5A/TR13	Yageo	SA6.5A/TR13	Brightking	20503	419864877	Direct Match Corrected supplier
+SA6.0CA/TR13	Yageo	SA6.0CA/TR13	Brightking	20503	419867203	Direct Match Corrected supplier
+SA8.5CA/TR13	Yageo	SA8.5CA/TR13	Brightking	20503	419864861	Direct Match Corrected supplier
+SA48CA/TR13	Yageo	SA48CA/TR13	Brightking	20503	419863354	Direct Match Corrected supplier
+SA8.0CA/TR13	Yageo	SA8.0CA/TR13	Brightking	20503	419863621	Direct Match Corrected supplier
+SMBJ440CA-AT/TR13	Yageo	SMBJ440CA-AT/TR13	Brightking	20503	419867003	Direct Match Corrected supplier
+SMBJ400A-AT/TR13	Yageo	SMBJ400A-AT/TR13	Brightking	20503	419863950	Direct Match Corrected supplier
+SMBJ400CA-AT/TR7	Yageo	SMBJ400CA-AT/TR7	Brightking	20503	419865428	Direct Match Corrected supplier
+SMBJ350CA-AT/TR13	Yageo	SMBJ350CA-AT/TR13	Brightking	20503	419865993	Direct Match Corrected supplier
+SMBJ300CA-AT/TR13	Yageo	SMBJ300CA-AT/TR13	Brightking	20503	419863440	Direct Match Corrected supplier
+SMAJ33CA-AT/TR13	Yageo	SMAJ33CA-AT/TR13	Brightking	20503	419863394	Direct Match Corrected supplier
+SFD52A07L01	Yageo	SFD52A07L01	Brightking	20503	419753172	Direct Match Corrected supplier
+SA40A/TR13	Yageo	SA40A/TR13	Brightking	20503	419864409	Direct Match Corrected supplier
+SAC10/TR13	Yageo	SAC10/TR13	Brightking	20503	419864068	Direct Match Corrected supplier
+SMDJ18CA-AT/TR7	Yageo	SMDJ18CA-AT/TR7	Brightking	20503	419864233	Direct Match Corrected supplier
+SMDJ100A-AT/TR13	Yageo	SMDJ100A-AT/TR13	Brightking	20503	419864560	Direct Match Corrected supplier
+SMDJ17CA-AT/TR13	Yageo	SMDJ17CA-AT/TR13	Brightking	20503	419865009	Direct Match Corrected supplier
+SMDJ180A-AT/TR13	Yageo	SMDJ180A-AT/TR13	Brightking	20503	419866861	Direct Match Corrected supplier
+SMDJ180CA-AT/TR13	Yageo	SMDJ180CA-AT/TR13	Brightking	20503	419864530	Direct Match Corrected supplier
+SMDJ36CA-AT/TR13	Yageo	SMDJ36CA-AT/TR13	Brightking	20503	419863400	Direct Match Corrected supplier
+SMDJ8.5CA-AT/TR13	Yageo	SMDJ8.5CA-AT/TR13	Brightking	20503	419865648	Direct Match Corrected supplier
+SMDJ170CA-AT/TR13	Yageo	SMDJ170CA-AT/TR13	Brightking	20503	419864471	Direct Match Corrected supplier
+SMDJ17A-AT/TR13	Yageo	SMDJ17A-AT/TR13	Brightking	20503	419863419	Direct Match Corrected supplier
+SMDJ36A-AT/TR13	Yageo	SMDJ36A-AT/TR13	Brightking	20503	419865384	Direct Match Corrected supplier
+SMDJ36A/TR7	Yageo	SMDJ36A/TR7	Brightking	20503	419863900	Direct Match Corrected supplier
+SMDJ8.0CA-AT/TR13	Yageo	SMDJ8.0CA-AT/TR13	Brightking	20503	419865858	Direct Match Corrected supplier
+SMDJ8.5A-AT/TR13	Yageo	SMDJ8.5A-AT/TR13	Brightking	20503	419866832	Direct Match Corrected supplier
+SMDJ16CA-AT/TR13	Yageo	SMDJ16CA-AT/TR13	Brightking	20503	419864638	Direct Match Corrected supplier
+SMDJ170A-AT/TR7	Yageo	SMDJ170A-AT/TR7	Brightking	20503	419866431	Direct Match Corrected supplier
+SMDJ33CA-AT/TR7	Yageo	SMDJ33CA-AT/TR7	Brightking	20503	419867057	Direct Match Corrected supplier
+SMDJ8.0A-AT/TR13	Yageo	SMDJ8.0A-AT/TR13	Brightking	20503	419866578	Direct Match Corrected supplier
+SMDJ160CA-AT/TR13	Yageo	SMDJ160CA-AT/TR13	Brightking	20503	419866763	Direct Match Corrected supplier
+SMDJ16A-AT/TR13	Yageo	SMDJ16A-AT/TR13	Brightking	20503	419866180	Direct Match Corrected supplier
+SMDJ33A-AT/TR13	Yageo	SMDJ33A-AT/TR13	Brightking	20503	419863315	Direct Match Corrected supplier
+SMDJ78CA-AT/TR13	Yageo	SMDJ78CA-AT/TR13	Brightking	20503	419863407	Direct Match Corrected supplier
+SMDJ15CA-AT/TR13	Yageo	SMDJ15CA-AT/TR13	Brightking	20503	419863646	Direct Match Corrected supplier
+SMDJ160A-AT/TR13	Yageo	SMDJ160A-AT/TR13	Brightking	20503	419866467	Direct Match Corrected supplier
+SMDJ30CA-AT/TR13	Yageo	SMDJ30CA-AT/TR13	Brightking	20503	419864186	Direct Match Corrected supplier
+SMDJ30CA/TR7	Yageo	SMDJ30CA/TR7	Brightking	20503	419863849	Direct Match Corrected supplier
+SMDJ58CA-AT/TR7	Yageo	SMDJ58CA-AT/TR7	Brightking	20503	419865812	Direct Match Corrected supplier
+SMDJ6.0CA-AT/TR13	Yageo	SMDJ6.0CA-AT/TR13	Brightking	20503	419865995	Direct Match Corrected supplier
+SMDJ30A-AT/TR13	Yageo	SMDJ30A-AT/TR13	Brightking	20503	419865470	Direct Match Corrected supplier
+SMDJ58A-AT/TR13	Yageo	SMDJ58A-AT/TR13	Brightking	20503	419863777	Direct Match Corrected supplier
+SMDJ70CA-AT/TR13	Yageo	SMDJ70CA-AT/TR13	Brightking	20503	419865636	Direct Match Corrected supplier
+SMDJ75A-AT/TR13	Yageo	SMDJ75A-AT/TR13	Brightking	20503	419865644	Direct Match Corrected supplier
+SMDJ15A-AT/TR13	Yageo	SMDJ15A-AT/TR13	Brightking	20503	419866050	Direct Match Corrected supplier
+SMDJ13A-AT/TR7	Yageo	SMDJ13A-AT/TR7	Brightking	20503	419865523	Direct Match Corrected supplier
+SMDJ24A-AT/TR7	Yageo	SMDJ24A-AT/TR7	Brightking	20503	419866887	Direct Match Corrected supplier
+SMDJ12CA-AT/TR13	Yageo	SMDJ12CA-AT/TR13	Brightking	20503	419865816	Direct Match Corrected supplier
+SMDJ130A-AT/TR13	Yageo	SMDJ130A-AT/TR13	Brightking	20503	419866336	Direct Match Corrected supplier
+SMDJ60A-AT/TR13	Yageo	SMDJ60A-AT/TR13	Brightking	20503	419866690	Direct Match Corrected supplier
+SMDJ120CA-AT/TR13	Yageo	SMDJ120CA-AT/TR13	Brightking	20503	419865303	Direct Match Corrected supplier
+SMDJ22A-AT/TR13	Yageo	SMDJ22A-AT/TR13	Brightking	20503	419863602	Direct Match Corrected supplier
+SMDJ22A/TR7	Yageo	SMDJ22A/TR7	Brightking	20503	419866821	Direct Match Corrected supplier
+SMDJ22CA-AT/TR7	Yageo	SMDJ22CA-AT/TR7	Brightking	20503	419864105	Direct Match Corrected supplier
+SMDJ90CA-AT/TR13	Yageo	SMDJ90CA-AT/TR13	Brightking	20503	419864446	Direct Match Corrected supplier
+SMDJ11CA-AT/TR13	Yageo	SMDJ11CA-AT/TR13	Brightking	20503	419865346	Direct Match Corrected supplier
+SMDJ120A-AT/TR7	Yageo	SMDJ120A-AT/TR7	Brightking	20503	419866703	Direct Match Corrected supplier
+SMDJ210A-AT/TR7	Yageo	SMDJ210A-AT/TR7	Brightking	20503	419867221	Direct Match Corrected supplier
+SMDJ210CA-AT/TR7	Yageo	SMDJ210CA-AT/TR7	Brightking	20503	419865856	Direct Match Corrected supplier
+SMDJ220A-AT/TR7	Yageo	SMDJ220A-AT/TR7	Brightking	20503	419864265	Direct Match Corrected supplier
+SMDJ220CA-AT/TR7	Yageo	SMDJ220CA-AT/TR7	Brightking	20503	419863551	Direct Match Corrected supplier
+SMDJ64A-AT/TR13	Yageo	SMDJ64A-AT/TR13	Brightking	20503	419863328	Direct Match Corrected supplier
+SMDJ90A-AT/TR13	Yageo	SMDJ90A-AT/TR13	Brightking	20503	419865061	Direct Match Corrected supplier
+SMDJ110CA-AT/TR7	Yageo	SMDJ110CA-AT/TR7	Brightking	20503	419863667	Direct Match Corrected supplier
+SMDJ11A-AT/TR7	Yageo	SMDJ11A-AT/TR7	Brightking	20503	419866016	Direct Match Corrected supplier
+SMDJ20A-AT/TR7	Yageo	SMDJ20A-AT/TR7	Brightking	20503	419866997	Direct Match Corrected supplier
+SMDJ20CA-AT/TR7	Yageo	SMDJ20CA-AT/TR7	Brightking	20503	419865809	Direct Match Corrected supplier
+SMDJ10CA-AT/TR7	Yageo	SMDJ10CA-AT/TR7	Brightking	20503	419864477	Direct Match Corrected supplier
+SMDJ110CA-AT/TR13	Yageo	SMDJ110CA-AT/TR13	Brightking	20503	419866380	Direct Match Corrected supplier
+SMDJ190A-AT/TR7	Yageo	SMDJ190A-AT/TR7	Brightking	20503	419865066	Direct Match Corrected supplier
+SMDJ190CA-AT/TR7	Yageo	SMDJ190CA-AT/TR7	Brightking	20503	419866318	Direct Match Corrected supplier
+SMDJ200A-AT/TR7	Yageo	SMDJ200A-AT/TR7	Brightking	20503	419864777	Direct Match Corrected supplier
+SMDJ200CA-AT/TR7	Yageo	SMDJ200CA-AT/TR7	Brightking	20503	419864370	Direct Match Corrected supplier
+SMDJ85CA-AT/TR13	Yageo	SMDJ85CA-AT/TR13	Brightking	20503	419867134	Direct Match Corrected supplier
+SMDJ100CA-AT/TR13	Yageo	SMDJ100CA-AT/TR13	Brightking	20503	419863740	Direct Match Corrected supplier
+SMDJ10A-AT/TR7	Yageo	SMDJ10A-AT/TR7	Brightking	20503	419864606	Direct Match Corrected supplier
+SMDJ18A-AT/TR7	Yageo	SMDJ18A-AT/TR7	Brightking	20503	419863645	Direct Match Corrected supplier
+SMDJ150A-AT/TR13	Yageo	SMDJ150A-AT/TR13	Brightking	20503	419863662	Direct Match Corrected supplier
+SMDJ150CA-AT/TR13	Yageo	SMDJ150CA-AT/TR13	Brightking	20503	419866727	Direct Match Corrected supplier
+SMDJ28A-AT/TR7	Yageo	SMDJ28A-AT/TR7	Brightking	20503	419867153	Direct Match Corrected supplier
+SMDJ28CA-AT/TR7	Yageo	SMDJ28CA-AT/TR7	Brightking	20503	419866176	Direct Match Corrected supplier
+SMDJ70A-AT/TR7	Yageo	SMDJ70A-AT/TR7	Brightking	20503	419864308	Direct Match Corrected supplier
+SMDJ14CA-AT/TR13	Yageo	SMDJ14CA-AT/TR13	Brightking	20503	419866164	Direct Match Corrected supplier
+SMDJ26CA-AT/TR13	Yageo	SMDJ26CA-AT/TR13	Brightking	20503	419864628	Direct Match Corrected supplier
+SMDJ7.5CA-AT/TR13	Yageo	SMDJ7.5CA-AT/TR13	Brightking	20503	419866472	Direct Match Corrected supplier
+SMDJ13CA-AT/TR7	Yageo	SMDJ13CA-AT/TR7	Brightking	20503	419864194	Direct Match Corrected supplier
+SMDJ26A-AT/TR7	Yageo	SMDJ26A-AT/TR7	Brightking	20503	419863799	Direct Match Corrected supplier
+SMDJ130CA-AT/TR7	Yageo	SMDJ130CA-AT/TR7	Brightking	20503	419863502	Direct Match Corrected supplier
+UDT23A05L02	Yageo	UDT23A05L02	Brightking	20503	100762432	Direct Match Corrected supplier
+UDT23A15L02	Yageo	UDT23A15L02	Brightking	20503	419870523	Direct Match Corrected supplier
+P6KE6.8A-AT/B	Yageo	P6KE6.8A-AT/B	Brightking	20503	419862832	Direct Match Corrected supplier
+P6KE180A-AT/B	Yageo	P6KE180A-AT/B	Brightking	20503	419862791	Direct Match Corrected supplier
+P6KE39CA-AT/B	Yageo	P6KE39CA-AT/B	Brightking	20503	419862876	Direct Match Corrected supplier
+1.5SMC550CA/TR7	Yageo	1.5SMC550CA/TR7	Brightking	20503	419865883	Direct Match Corrected supplier
+2RP300M-8	Yageo	2RP300M-8	Brightking	20503	413372545	Direct Match Corrected supplier
+241KD07-FTB	Yageo	241KD07-FTB	Brightking	20503	414623016	Direct Match Corrected supplier
+220KD25	Yageo	220KD25	Brightking	20503	423413052	Direct Match Corrected supplier
+2RL2500M-8	Yageo	2RL2500M-8	Brightking	20503	413372460	Direct Match Corrected supplier
+2RL1400M-8	Yageo	2RL1400M-8	Brightking	20503	413372455	Direct Match Corrected supplier
+2RL2000M-8	Yageo	2RL2000M-8	Brightking	20503	413372458	Direct Match Corrected supplier
+2RK4000M-8	Yageo	2RK4000M-8	Brightking	20503	413372442	Direct Match Corrected supplier
+2RH1600M-8	Yageo	2RH1600M-8	Brightking	20503	413372431	Direct Match Corrected supplier
+2RH2500M-8	Yageo	2RH2500M-8	Brightking	20503	413372434	Direct Match Corrected supplier
+2RH3000M-8	Yageo	2RH3000M-8	Brightking	20503	413372436	Direct Match Corrected supplier
+391KD07-O	Yageo	391KD07-O	Brightking	20503	414623158	Direct Match Corrected supplier
+391KD07-OTR	Yageo	391KD07-OTR	Brightking	20503	414623160	Direct Match Corrected supplier
+431KD10J-FTB	Yageo	431KD10J-FTB	Brightking	20503	419755460	Direct Match Corrected supplier
+431KD10J-OTB	Yageo	431KD10J-OTB	Brightking	20503	419755463	Direct Match Corrected supplier
+431KD10-FTB	Yageo	431KD10-FTB	Brightking	20503	419755457	Direct Match Corrected supplier
+5.0SMDJ48CA/TR7	Yageo	5.0SMDJ48CA/TR7	Brightking	20503	419867058	Direct Match Corrected supplier
+471KD07-F	Yageo	471KD07-F	Brightking	20503	414623250	Direct Match Corrected supplier
+471KD07-TB	Yageo	471KD07-TB	Brightking	20503	414623256	Direct Match Corrected supplier
+621KD07-TB	Yageo	621KD07-TB	Brightking	20503	414623334	Direct Match Corrected supplier
+621KD07-FTB	Yageo	621KD07-FTB	Brightking	20503	414623329	Direct Match Corrected supplier
+621KD07-OTB	Yageo	621KD07-OTB	Brightking	20503	414623332	Direct Match Corrected supplier
+621KD07-F	Yageo	621KD07-F	Brightking	20503	414623328	Direct Match Corrected supplier
+5KP33CA-AT/B	Yageo	5KP33CA-AT/B	Brightking	20503	419862809	Direct Match Corrected supplier
+680KD07-F	Yageo	680KD07-F	Brightking	20503	414623342	Direct Match Corrected supplier
+680KD07-OTB	Yageo	680KD07-OTB	Brightking	20503	414623346	Direct Match Corrected supplier
+821KD07-FTB	Yageo	821KD07-FTB	Brightking	20503	414623381	Direct Match Corrected supplier
+821KD07-OTB	Yageo	821KD07-OTB	Brightking	20503	414623384	Direct Match Corrected supplier
+821KD07-TR	Yageo	821KD07-TR	Brightking	20503	414623387	Direct Match Corrected supplier
+BK130-900-SZ	Yageo	BK130-900-SZ	Brightking	20503	419369116	Direct Match Corrected supplier
+IXZR16N60	Zilog	IXZR16N60	IXYS	1353	34588055	Direct Match Corrected supplier
+IXD1421AB58ER-G	Zilog	IXD1421AB58ER-G	IXYS	1353	62498269	Direct Match Corrected supplier
+IXD1421AB08ER-G	Zilog	IXD1421AB08ER-G	IXYS	1353	62498219	Direct Match Corrected supplier
+IXD1421AB13ER-G	Zilog	IXD1421AB13ER-G	IXYS	1353	62498224	Direct Match Corrected supplier
+IXD1421AB17ER-G	Zilog	IXD1421AB17ER-G	IXYS	1353	62498228	Direct Match Corrected supplier
+IXD1421AB28ER-G	Zilog	IXD1421AB28ER-G	IXYS	1353	62498239	Direct Match Corrected supplier
+IXD1421AB31ER-G	Zilog	IXD1421AB31ER-G	IXYS	1353	62498242	Direct Match Corrected supplier
+IXD1421AB33ER-G	Zilog	IXD1421AB33ER-G	IXYS	1353	62498244	Direct Match Corrected supplier
+IXD1421AB38ER-G	Zilog	IXD1421AB38ER-G	IXYS	1353	62498249	Direct Match Corrected supplier
+IXD1421AB41ER-G	Zilog	IXD1421AB41ER-G	IXYS	1353	62498252	Direct Match Corrected supplier
+IXD1421AB49ER-G	Zilog	IXD1421AB49ER-G	IXYS	1353	62498260	Direct Match Corrected supplier
+IXD1421AB53ER-G	Zilog	IXD1421AB53ER-G	IXYS	1353	62498264	Direct Match Corrected supplier
+IXD1421AB03ER-G	Zilog	IXD1421AB03ER-G	IXYS	1353	62498214	Direct Match Corrected supplier
+FIS-0830-0001G	Omron	FIS-0830-0001G	Omron	1463	404673627	Direct Match
+FIS-0830-0005G	Omron	FIS-0830-0005G	Omron	1463	404673625	Direct Match

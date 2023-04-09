@@ -1,0 +1,33 @@
+MPN	SE_MAN_NAME	MFG	CS_STATUS	SCRUB_STATUS	SCRUBBING_STANDARD_COMMENT	SCRUB_URL_COMMENT_ONLINE	SCRUB_URL_COMMENT_FILE_PATH	SCRUB_DS	SCRUB_DS_FILE_PATH	PRODUCT_URL PAGE	TAX_PATH	SE_PART	SE_SUPPLIER	SCRUBBING_ADDITIONAL_COMMENT	CUSTOMER_DESCRIPTION	SCRUB_DS_SOURCE	SCRUB_DS_FILE_TYPE	SCRUB_URL_COMMENT_SOURCE	SCRUB_URL_COMMENT_FILE_TYPE	SOURCING_TASKS_NAME	TRIGGER_Name	SCRUBBING_TASK
+90290	"ADVANCED ENERGY INDUSTRIES, INC"	"ADVANCED ENERGY INDUSTRIES, INC"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90291	"ADVANCED ENERGY INDUSTRIES, INC"	"ADVANCED ENERGY INDUSTRIES, INC"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90293	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90294	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90295	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90340	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90292	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+637109	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+3397-300	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+060-2443-07	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+060-0743-06TJG	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+060-0743-11TJG	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+NC-100	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+40227	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+13840	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+25679	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+01.18 18 10	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+3445	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+90370	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+T5-0100	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+T5-0101	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+T5-0102	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+1604-200	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+102010027	APEM	APEM	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+102110423	API Delevan	API Delevan	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+060-0761-29TJG	API Delevan	API Delevan	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+060-0708-12TJG	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+XNB105	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+2SFT-800	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+XN200	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+25654	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+2SFT-121	APM HEXSEAL	APM HEXSEAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine

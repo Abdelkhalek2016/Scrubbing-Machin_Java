@@ -1,0 +1,104 @@
+MPN	SE_MAN_NAME	MFG	CS_STATUS	SCRUB_STATUS	SCRUBBING_STANDARD_COMMENT	SCRUB_URL_COMMENT_ONLINE	SCRUB_URL_COMMENT_FILE_PATH	SCRUB_DS	SCRUB_DS_FILE_PATH	PRODUCT_URL PAGE	TAX_PATH	SE_PART	SE_SUPPLIER	SCRUBBING_ADDITIONAL_COMMENT	CUSTOMER_DESCRIPTION	SCRUB_DS_SOURCE	SCRUB_DS_FILE_TYPE	SCRUB_URL_COMMENT_SOURCE	SCRUB_URL_COMMENT_FILE_TYPE	SOURCING_TASKS_NAME	TRIGGER_Name	SCRUBBING_TASK
+BC847B	0	0	Direct Match corrected supplier	Direct Match corrected supplier								BC847B	onsemi|ZOWIE Technology|Yangzhou Yangjie Electronic Technology Co., Ltd|Vishay|Transys Electronics|Topdiode Manufacturing Company|Texas Instruments|Taitron Components|STMicroelectronics|Rectron|ROHM Semiconductor|Nexperia|Multicomp Pro|Micro Commercial Components|LuGuang Electronic Tech.Co.,Ltd|KODENSHI AUK|KEC Group|Infineon Technologies AG|Guangndong Kexin Industrial|Good-Ark Semiconductor|Diotec Semiconductor AG|Diodes Incorporated|Continental Device India Limited|Central Semiconductor|Bruckewell Technology LTD|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+BAV70	0	0	Direct Match corrected supplier	Direct Match corrected supplier								BAV70	onsemi|ZOWIE Technology|Yangzhou Yangjie Electronic Technology Co., Ltd|WEITRON TECHNOLOGY|Vishay|Transys Electronics|Toshiba|Surge Components|Sanken Electric Co., Ltd|SMC Diode Solutions Co. LTD|Rectron|ROHM Semiconductor|RFE International|Panasonic|Nexperia|Multicomp Pro|Micro Commercial Components|LuGuang Electronic Tech.Co.,Ltd|Lision Technology Inc|Keysight Technologies, Inc|Jiangsu Changjing Electronics Technology Co., Ltd|Invac|Infineon Technologies AG|Hitano Enterprise|Guangdong Hottech Industrial Co., Ltd|Good-Ark Semiconductor|Frontier Electronics|EIC Semiconductor|Diotec Semiconductor AG|Diodes Incorporated|Continental Device India Limited|Changzhou Galaxy Century Microelectronics Co.,Ltd|Allegro MicroSystems_QA|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+"C918,"	0	0	Direct Match corrected supplier	Direct Match corrected supplier								C918	Eaton|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+1-1734035-1	Littelfuse	TE C	Direct Match Corrected supplier	Direct Match Corrected supplier								1-1734035-1	TE Connectivity	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+1992	A.D.A	ADAF	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+DST-6-36	0	RET-	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+LP-34-1400	0	RET-	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+MCP6002T-I/MS	Micron Technology	MICR	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+MF72-005D5	0	RET-	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+PE-65612NL	PULS GmbH	PULS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+PS-25-24	0	MEAN	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+VND600SP-E	0	RHST	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+5342	0	ISELI A DIVISION OF APEX TOOL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+(10CE220AX)	Panasonic	SANYO	Direct Match Corrected supplier	Direct Match Corrected supplier								10CE220AX	Sun Electronic Industries	Forward_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+0603SAF1501T5E	Michelin North America Inc	UNIROYAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+0805B102K201CT	0	0	Direct Match corrected supplier	Direct Match corrected supplier								0805B102K201CT	Walsin Technology|Knowles Precision Devices|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+0805S8J0563T5E	Michelin North America Inc	UNIROYAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+1210YC226MAT2A	0	N/A	Direct Match corrected supplier	Direct Match corrected supplier								1210YC226MAT2A	KYOCERA AVX Components Corporation|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+1N967B	Diodes Incorporated	DIODEZETEX	Direct Match Corrected supplier	Direct Match Corrected supplier								1N967B	Microchip Technology	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+54LS244DMQB	onsemi	FAIRCHILD	Direct Match Corrected supplier	Direct Match Corrected supplier								54LS244DMQB	Texas Instruments	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+5962R0722961VXA	Hi-Rel Laboratories	HI REL LABORATORIES INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+81505	"PPI Power, Inc"	PACIFICPRECISIONINSTRUMENTS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+AD5666BRUZ-2REEL7	0	0	Direct Match corrected supplier	Direct Match corrected supplier								AD5666BRUZ-2REEL7	Analog Devices|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+AD5666BRUZ-2REEL7	0	Lead FREE	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+AT210??	0	Shanghai Jason Plastic Co. Ltd	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+AT210???	0	Shanghai Jason Plastic Co. Ltd	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+AT25256B-SSHL-T	Dialog Semiconductor	ADESTO TECHNOLOGIES	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+C0743A	General Cable Technologies Corporation	GENERAL CABLE	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+ER202	PanJit International	Panjit	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+FCBG110SD1C07B	0	II-VI_FINISAR	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+FCBG110SD1C10B	0	II-VI_FINISAR	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+GRM155R71A273KA01D	0	0	Direct Match corrected supplier	Direct Match corrected supplier								GRM155R71A273KA01D	Murata Manufacturing|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+HD6417750RBP240V	Hitachi	HITACHI	Direct Match Corrected supplier	Direct Match Corrected supplier								HD6417750RBP240V	Renesas Electronics	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+ISL90727WIE627Z-TK	ROHM Semiconductor	ROHM	Direct Match Corrected supplier	Direct Match Corrected supplier								ISL90727WIE627Z-TK	Renesas Electronics	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+JANTXV1N5711UR-1	Hi-Rel Laboratories	HI REL LABORATORIES INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+LT1763MPDE-3#TR	0	0	Direct Match corrected supplier	Direct Match corrected supplier								LT1763MPDE-3#TR	Analog Devices|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+LT1763MPDE-3#TR	0	Lead FREE	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+M22759/44-20-9	"WireMasters, Inc"	WIREMASTERS INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+MC7815CT	NXP Semiconductors	FREESCALE	Direct Match Corrected supplier	Direct Match Corrected supplier								MC7815CT	onsemi	Forward_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+MCT7815CT	NXP Semiconductors	FREESCALE	Direct Match Corrected supplier	Direct Match Corrected supplier								MCT7815CT	onsemi	Forward_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+MM74HC05N	onsemi	FAIRCHILD	Direct Match Corrected supplier	Direct Match Corrected supplier								MM74HC05N	Texas Instruments	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+MOR02SJ0101A10	Michelin North America Inc	UNIROYAL	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+N6700B	0	TEVET LLC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+RH1498MW	Hi-Rel Laboratories	HI REL LABORATORIES INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+RS-03K4992FT	0	FEGNHUA	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+SD103AWS	0	CJ TECH	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+!1N5819	Motorola Mobility LLC	GENERAL INST.	Direct Match Corrected supplier	Direct Match Corrected supplier								1N5819	Vishay	Forward_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+!CON-P42/29	Yageo	YAGEO	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+!LM393M	ROHM Semiconductor	ROHM SEMICONDUC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+# 4	0	AKERS PACKAGING SERVICES	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#12-2C SJTW 300V 105C CSA/UL	0	Baohing Electric Wire & Cable Mfg	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#2	"The Olander Company, Inc"	THEOLANDERCORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#2	Texas Instruments	NATIONAL SEMICONDUCTOR CORP	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#2	FRALOCK	FRALOCK	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#2	0	0	Direct Match corrected supplier	Direct Match corrected supplier								#2	Harger Lightning & Grounding|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+#20	SIERRA PACIFIC ENGINEERING AND PRODUCTS	SIERRA PACIFIC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#32	"Greenliant Systems, Inc"	GREEN LINE	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4	"The Olander Company, Inc"	THEOLANDERCORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4	The Dow Chemical	DOW CORNING	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4	Laminated Plastics	LAMINATED PLASTICS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4	0	0	Direct Match corrected supplier	Direct Match corrected supplier								#4	Weld-On Adhesives, Inc|Harger Lightning & Grounding|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+#4	0	Any	Direct Match corrected supplier	Direct Match corrected supplier								#4	Weld-On Adhesives, Inc|Harger Lightning & Grounding|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+#4	0	"LOCK, INT. TOOTH"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4	0	"LOCK, SPLIT"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#4 KLIMP	Caseworks Crating and Shipping	CASEWORKS CRATING AND SHIPPING	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#5HT-109065F-1090	Honeywell	HONEYWELL AEROSPACE INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	"The Olander Company, Inc"	THE OLANDER CORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	"The Olander Company, Inc"	THEOLANDERCORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	Laminated Plastics	LAMINATED PLASTICS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	Essentra Components	ALLIANCE PLASTICS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	Arnold Supply	ARNOLD SUPPLY INC.	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	0	0	Direct Match corrected supplier	Direct Match corrected supplier								#6	Minco Products|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+#6	0	FLAT WASHER	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	0	"Hapco, Inc. DBA Tarpco"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	0	"LOCK, INT. TOOTH"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	0	"LOCK, SPLIT"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#6	0	QCON	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#636CY-2R2M	Bourns	BOURNS INC	Direct Match Corrected supplier	Direct Match Corrected supplier								#636CY-2R2M	Murata Manufacturing	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+"#66PP,WHITE"	Parker Hannifin	PARKER	Direct Match Corrected supplier	Direct Match Corrected supplier								#66PP,WHITE	Dayco Products	Reverse_Relation						(CS_daily_Scrubbing)	Direct Match Corrected supplier	Scrubbing Machine
+#8	"The Olander Company, Inc"	THE OLANDER CORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#8	"The Olander Company, Inc"	THEOLANDERCORPORATION	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#8	Century Fasteners	CENTURY FASTENERS	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#8	0	0	Direct Match corrected supplier	Direct Match corrected supplier								#8	Harger Lightning & Grounding|	Blank Man or Dummy Man						(CS_daily_Scrubbing)	Direct Match corrected supplier	Scrubbing Machine
+#822LY-3R3M	0	"ALL AMERICAN SEMICONDUCTOR OF MINNESOTA, INC."	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#919AS-1R8N=P3	0	225340 - TOKO	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#919AS-4R7M	0	ACT TOKO AMERICA INC	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A814AY-100M	BEC Distribution Limited	BEC DISTRIBUTION LTD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A814AY-100M	BEC Distribution Limited	BECDISTRIBUTIONLTD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A915BY-221M	0	TOKO GMBH	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A916CY-220M=P3	Coilcraft	COILCRAFT	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A916CY-3R3M	API Delevan	API DELEVAN	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#A920CY-1R0M=P3	0	"Toko America Inc, 1250 Frehanvville Dr, Mount Prospect, IL"	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#FSLM2520-100J=P2	0	MENA	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#FSLM2520-1R0J	TE Connectivity	TE CONNECTIVITY	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#FSLM2520-R33J=P2	Ta-I Technology	TAI	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	Contrinex AG	CONTRINEX	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#NAME?	0	CHILD	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine
+#VALUE!	Rockwell Automation	REJ	Need Manual Scrubbing	Need Manual Scrubbing																(CS_daily_Scrubbing)	Need Manual Scrubbing	Scrubbing Machine

@@ -1,0 +1,11 @@
+MPN	SE_NAME	COM_PARTNUM	SE_SUPPLIER	MAN_ID	COM_ID	Scrubbing_Status
+TY1200-175X	"ABB Installation Products, Inc"	TY1200-175X	ABB	1006	60882580	Direct Match Corrected supplier
+TY400-120-ANTI	"ABB Installation Products, Inc"	TY400-120-ANTI	ABB	1006	422361404	Direct Match Corrected supplier
+CPH3225A	ABLIC Inc	CPH3225A	Seiko Instruments Inc	55324	50605845	Direct Match Corrected supplier
+MS414GE	ABLIC Inc	MS414GE	Seiko Instruments Inc	55324	418235913	Direct Match Corrected supplier
+MS920SE	ABLIC Inc	MS920SE	Seiko Instruments Inc	55324	418235916	Direct Match Corrected supplier
+SC16S-9PF20PPM	ABLIC Inc	SC16S-9PF20PPM	Seiko Instruments Inc	55324	408501641	Direct Match Corrected supplier
+SC20S-9PF20PPM	ABLIC Inc	SC20S-9PF20PPM	Seiko Instruments Inc	55324	408501638	Direct Match Corrected supplier
+SR41W	ABLIC Inc	SR41W	Seiko Instruments Inc	55324	408015766	Direct Match Corrected supplier
+TS621E	ABLIC Inc	TS621E	Seiko Instruments Inc	55324	418235918	Direct Match Corrected supplier
+M29W640GB7AN6E	Alliance Memory	M29W640GB7AN6E	Micron Technology	1416	60984851	Need Scrubbing

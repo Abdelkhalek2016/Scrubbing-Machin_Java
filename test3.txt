@@ -1,0 +1,19 @@
+MPN	SE_MAN	MAN
+(C0603)	KEMET Corporation	(KEMET)
+(C0805)	KEMET Corporation	(KEMET)
+(C0805C474K3RAC)	Molex	MOLEX-ETC
+(CA3039)	"L3Harris Technologies, Inc"	HARRIS
+(CD 4081 BCN)	"L3Harris Technologies, Inc"	HARRIS SEMICONDUCTOR
+(CD) 74HC86 E	0	HARRIS/RCA/INTERSIL
+(CD)74HC253E	Renesas Electronics	RCA/HARRIS/INTERSIL
+(CD4011BD)	"L3Harris Technologies, Inc"	HARRIS
+(CD74HC125E)	Renesas Electronics	RCA
+(CD74HC138E)	Renesas Electronics	RCA
+(CD74HC377E)	Renesas Electronics	RCA
+(CD74HC541E)	Renesas Electronics	RCA
+(CD74HC541M)	Renesas Electronics	RCA
+(CEAFM1E102M)	Ericsson	MARCON
+(CEUSM1H220)	Ericsson	MARCON
+(CEUSM1V221)	Ericsson	MARCON
+(CF 1/4 242 J)	KOA Speer Electronics	KOA
+(CF 1/4 910 J)	KOA Speer Electronics	KOA

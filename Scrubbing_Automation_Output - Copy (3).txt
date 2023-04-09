@@ -1,0 +1,177 @@
+MPN	SE_NAME	COM_PARTNUM	SE_SUPPLIER	MAN_ID	COM_ID	Scrubbing_Status
+TY1200-175X	"ABB Installation Products, Inc"	TY1200-175X	ABB	1006	60882580	Direct Match Corrected supplier
+TY400-120-ANTI	"ABB Installation Products, Inc"	TY400-120-ANTI	ABB	1006	422361404	Direct Match Corrected supplier
+CPH3225A	ABLIC Inc	CPH3225A	Seiko Instruments Inc	55324	50605845	Direct Match Corrected supplier
+MS414GE	ABLIC Inc	MS414GE	Seiko Instruments Inc	55324	418235913	Direct Match Corrected supplier
+MS920SE	ABLIC Inc	MS920SE	Seiko Instruments Inc	55324	418235916	Direct Match Corrected supplier
+SC16S-9PF20PPM	ABLIC Inc	SC16S-9PF20PPM	Seiko Instruments Inc	55324	408501641	Direct Match Corrected supplier
+SC20S-9PF20PPM	ABLIC Inc	SC20S-9PF20PPM	Seiko Instruments Inc	55324	408501638	Direct Match Corrected supplier
+SR41W	ABLIC Inc	SR41W	Seiko Instruments Inc	55324	408015766	Direct Match Corrected supplier
+TS621E	ABLIC Inc	TS621E	Seiko Instruments Inc	55324	418235918	Direct Match Corrected supplier
+M29W640GB7AN6E	Alliance Memory	M29W640GB7AN6E	Micron Technology	1416	60984851	Need Scrubbing
+M29W320DB7AZA6F	Alliance Memory	M29W320DB7AZA6F	Micron Technology	1416	42218843	Need Scrubbing
+M29W128GH70N3E	Alliance Memory	M29W128GH70N3E	Micron Technology	1416	41519580	Need Scrubbing
+M45PE20-VMN6P	Alliance Memory	M45PE20-VMN6P	Micron Technology	1416	33538281	Need Scrubbing
+M45PE20-VMN6P	Alliance Memory	M45PE20-VMN6P	STMicroelectronics	1579	19068531	Need Scrubbing
+N25Q064A13EF8H0E	Alliance Memory	N25Q064A13EF8H0E	Micron Technology	1416	61052951	Need Scrubbing
+N25Q064A13ESFA0F	Alliance Memory	N25Q064A13ESFA0F	Micron Technology	1416	51619432	Need Scrubbing
+N25Q032A13EF640F	Alliance Memory	N25Q032A13EF640F	Micron Technology	1416	43158795	Need Scrubbing
+N25Q032A13ESC40G	Alliance Memory	N25Q032A13ESC40G	Micron Technology	1416	43158799	Need Scrubbing
+N25Q032A13ESFA0F	Alliance Memory	N25Q032A13ESFA0F	Micron Technology	1416	51550405	Need Scrubbing
+N25Q064A13EF640E	Alliance Memory	N25Q064A13EF640E	Micron Technology	1416	43710722	Need Scrubbing
+M29F160FT55N3E2	Alliance Memory	M29F160FT55N3E2	Micron Technology	1416	41519521	Need Scrubbing
+M29F400FB55N3E2	Alliance Memory	M29F400FB55N3E2	Micron Technology	1416	40371266	Need Scrubbing
+M29F400FT5AN6E2	Alliance Memory	M29F400FT5AN6E2	Micron Technology	1416	41519559	Need Scrubbing
+M25P80-VMN3TPB	Alliance Memory	M25P80-VMN3TPB	Micron Technology	1416	43318589	Need Scrubbing
+M29W640GH70ZA6E	Alliance Memory	M29W640GH70ZA6E	Micron Technology	1416	34507780	Need Scrubbing
+M29W640GH70ZA6E	Alliance Memory	M29W640GH70ZA6E	STMicroelectronics	1579	25595216	Need Scrubbing
+M29W640GT7AN6E	Alliance Memory	M29W640GT7AN6E	Micron Technology	1416	56714905	Need Scrubbing
+M29F800FB5AN6F2	Alliance Memory	M29F800FB5AN6F2	Micron Technology	1416	40371247	Need Scrubbing
+PF48F4000P0ZBQEF	Alliance Memory	PF48F4000P0ZBQEF	Micron Technology	1416	42736430	Need Scrubbing
+PC28F640P33TF60A	Alliance Memory	PC28F640P33TF60A	Micron Technology	1416	46311611	Need Scrubbing
+PC48F4400P0TB0EE	Alliance Memory	PC48F4400P0TB0EE	Micron Technology	1416	46308192	Need Scrubbing
+PC28F128P33BF60A	Alliance Memory	PC28F128P33BF60A	Micron Technology	1416	48708125	Need Scrubbing
+PC28F640J3F75A	Alliance Memory	PC28F640J3F75A	Micron Technology	1416	42929723	Need Scrubbing
+PC28F640P30BF65B	Alliance Memory	PC28F640P30BF65B	Micron Technology	1416	51944241	Need Scrubbing
+M58BW016FB7T3F	Alliance Memory	M58BW016FB7T3F	Micron Technology	1416	38090584	Need Scrubbing
+M29W064FB70N3E	Alliance Memory	M29W064FB70N3E	Micron Technology	1416	38219080	Need Scrubbing
+SST59U	Belden	SST59U	"ABB Installation Products, Inc"	3165	79958426	Direct Match Corrected supplier
+SST59U	Belden	SST59U	ABB Installation Products, Inc	3165	79958426	Direct Match Corrected supplier
+311P409-2P-B-12	C&K	311P409-2P-B-12	TE Connectivity	1629	25591968	Need Scrubbing
+311P409-2P-B-12	C&K	311P409-2P-B-12	ITT Inc	1351	62354697	Direct Match Corrected supplier
+CXM50	Chemtronics	CXM50	Illinois Tool Works	2705	20330122	Direct Match Corrected supplier
+8200-W	Corning Incorporated	8200-W	3M	1003	26139916	Direct Match Corrected supplier
+Q-B-5AS	Desco Industries	Q-B-5AS	EasyBraid	4038	415395459	Direct Match Corrected supplier
+OS-D-5AS	Desco Industries	OS-D-5AS	EasyBraid	4038	415394189	Direct Match Corrected supplier
+MS621T	ABLIC Inc	MS621T	Seiko Instruments Inc	55324	405508518	Direct Match Corrected supplier
+VT200F-12.5PF20PPM	ABLIC Inc	VT200F-12.5PF20PPM	Seiko Instruments Inc	55324	408501644	Direct Match Corrected supplier
+M29W320EB70ZE6E	Alliance Memory	M29W320EB70ZE6E	STMicroelectronics	1579	19103904	Need Scrubbing
+M29W320EB70ZE6E	Alliance Memory	M29W320EB70ZE6E	Micron Technology	1416	33538249	Need Scrubbing
+PC28F640P30TF65B	Alliance Memory	PC28F640P30TF65B	Micron Technology	1416	53064097	Need Scrubbing
+PC28F128P30BF65A	Alliance Memory	PC28F128P30BF65A	Micron Technology	1416	46308314	Need Scrubbing
+PC28F320J3F75B	Alliance Memory	PC28F320J3F75B	Micron Technology	1416	46308238	Need Scrubbing
+PC28F512P30TFB	Alliance Memory	PC28F512P30TFB	Micron Technology	1416	46311648	Need Scrubbing
+MT41K1G8SN-107 IT:A	Alliance Memory	MT41K1G8SN-107 IT:A	Micron Technology	1416	73148372	Need Scrubbing
+MT48LC16M16A2P-7E IT:G	Alliance Memory	MT48LC16M16A2P-7E IT:G	Micron Technology	1416	47427764	Need Scrubbing
+M58BW32FB4ZA3T	Alliance Memory	M58BW32FB4ZA3T	STMicroelectronics	1579	21628490	Need Scrubbing
+M58BW32FB4ZA3T	Alliance Memory	M58BW32FB4ZA3T	Micron Technology	1416	36343347	Need Scrubbing
+Y16071R50000D9W	Alpha Electronics	Y16071R50000D9W	Vishay Precision Group	23561	43251184	Direct Match Corrected supplier
+Y16071R50000D9W	Alpha Electronics	Y16071R50000D9W	Vishay	1645	31107998	Need Scrubbing
+MP402R0L	Alpha Electronics	MP402R0L	Vishay Precision Group	23561	416249359	Direct Match Corrected supplier
+MP3K010L	Alpha Electronics	MP3K010L	Vishay Precision Group	23561	416249370	Direct Match Corrected supplier
+MP2K940L	Alpha Electronics	MP2K940L	Vishay Precision Group	23561	416249366	Direct Match Corrected supplier
+TSM23Q-2RG	Applied Motion Products	TSM23Q-2RG	MOONS INDUSTRIES	42082	419350912	Direct Match Corrected supplier
+UCT-LH	Belden	UCT-LH	"ABB Installation Products, Inc"	3165	37942108	Direct Match Corrected supplier
+UCT-LH	Belden	UCT-LH	ABB Installation Products, Inc	3165	37942108	Direct Match Corrected supplier
+DT-04-18-0-C	Belden	DT-04-18-0-C	"PPC Broadband, Inc"	40808	1846531599	Direct Match Corrected supplier
+311P407-2P-B-12	C&K	311P407-2P-B-12	TE Connectivity	1629	48720181	Need Scrubbing
+311P407-2P-B-12	C&K	311P407-2P-B-12	ITT Inc	1351	406270074	Direct Match Corrected supplier
+311P407-1S-B-12	C&K	311P407-1S-B-12	ITT Inc	1351	405518121	Direct Match Corrected supplier
+311P407-1S-B-12	C&K	311P407-1S-B-12	TE Connectivity	1629	25593282	Need Scrubbing
+430P684X9400	Cornell Dubilier Electronics	430P684X9400	Vishay	1645	26335619	Direct Match Corrected supplier
+S-B-10AS	Desco Industries	S-B-10AS	EasyBraid	4038	414020691	Direct Match Corrected supplier
+LF-B-5AS	Desco Industries	LF-B-5AS	EasyBraid	4038	422646613	Direct Match Corrected supplier
+GV1G10	Eaton	GV1G10	Schneider Electric	1545	37834678	Direct Match Corrected supplier
+GSK-805	Global Specialties	GSK-805	Cal Test Electronics	7408	419777749	Direct Match Corrected supplier
+GRDBARV14	Hammond Power Solutions	GRDBARV14	Hammond Manufacturing	2061	53428343	Direct Match Corrected supplier
+MP1205MPFC	"Hitachi Metals, Ltd"	MP1205MPFC	METGLAS	11666	50122603	Direct Match Corrected supplier
+MP3210P4AF	"Hitachi Metals, Ltd"	MP3210P4AF	METGLAS	11666	69170475	Direct Match Corrected supplier
+MP7548MPFC	"Hitachi Metals, Ltd"	MP7548MPFC	METGLAS	11666	50122630	Direct Match Corrected supplier
+MP7050MPFC	"Hitachi Metals, Ltd"	MP7050MPFC	METGLAS	11666	50122619	Direct Match Corrected supplier
+MP2010MPFC	"Hitachi Metals, Ltd"	MP2010MPFC	METGLAS	11666	50122607	Direct Match Corrected supplier
+MP1306MPFC	"Hitachi Metals, Ltd"	MP1306MPFC	METGLAS	11666	50122604	Direct Match Corrected supplier
+FT-3KM F6045G	"Hitachi Metals, Ltd"	FT-3KM F6045G	METGLAS	11666	416738925	Direct Match Corrected supplier
+CCM03-3001LFT R102	ITT Inc	CCM03-3001LFT R102	C&K	12108	101063751	Direct Match Corrected supplier
+LF2190NTR	IXYS	LF2190NTR	Littelfuse	1388	1845755133	Direct Match Corrected supplier
+W0944WC150	IXYS	W0944WC150	Littelfuse	1388	419822147	Direct Match Corrected supplier
+S802CS1RP	IXYS	S802CS1RP	Littelfuse	1388	1845344474	Direct Match Corrected supplier
+IX4351NETR	IXYS	IX4351NETR	Littelfuse	1388	415536461	Direct Match Corrected supplier
+B-01-RTS	KEMET Corporation	B-01-RTS	TOKIN Corporation	2263	27091478	Direct Match Corrected supplier
+B-03-R	KEMET Corporation	B-03-R	TOKIN Corporation	2263	27091481	Direct Match Corrected supplier
+RG-208F	KEMET Corporation	RG-208F	TOKIN Corporation	2263	42242963	Direct Match Corrected supplier
+VU-215F	KEMET Corporation	VU-215F	TOKIN Corporation	2263	42242967	Direct Match Corrected supplier
+VU-220F	KEMET Corporation	VU-220F	TOKIN Corporation	2263	42242568	Direct Match Corrected supplier
+SU16VD-30050	KEMET Corporation	SU16VD-30050	TOKIN Corporation	2263	42049763	Direct Match Corrected supplier
+SNG-19A-080	KEMET Corporation	SNG-19A-080	TOKIN Corporation	2263	27114907	Direct Match Corrected supplier
+SNG-19DB-014	KEMET Corporation	SNG-19DB-014	TOKIN Corporation	2263	27114910	Direct Match Corrected supplier
+SNG-25DB-086	KEMET Corporation	SNG-25DB-086	TOKIN Corporation	2263	27114906	Direct Match Corrected supplier
+GL-2030ET	KEMET Corporation	GL-2030ET	TOKIN Corporation	2263	48493524	Direct Match Corrected supplier
+GL-2060H2	KEMET Corporation	GL-2060H2	TOKIN Corporation	2263	48126721	Direct Match Corrected supplier
+GL-2080C4	KEMET Corporation	GL-2080C4	TOKIN Corporation	2263	41104007	Direct Match Corrected supplier
+GF-210U	KEMET Corporation	GF-210U	TOKIN Corporation	2263	41261797	Direct Match Corrected supplier
+GT-21001	KEMET Corporation	GT-21001	TOKIN Corporation	2263	35209797	Direct Match Corrected supplier
+GT-2200	KEMET Corporation	GT-2200	TOKIN Corporation	2263	27094561	Direct Match Corrected supplier
+LF-215N	KEMET Corporation	LF-215N	TOKIN Corporation	2263	42622225	Direct Match Corrected supplier
+LF-305	KEMET Corporation	LF-305	TOKIN Corporation	2263	35209896	Direct Match Corrected supplier
+MA-2043	KEMET Corporation	MA-2043	TOKIN Corporation	2263	51594540	Direct Match Corrected supplier
+MPCH1040LR68	KEMET Corporation	MPCH1040LR68	TOKIN Corporation	2263	404126243	Direct Match Corrected supplier
+SNT-S10	KEMET Corporation	SNT-S10	TOKIN Corporation	2263	32919098	Direct Match Corrected supplier
+SBT-0208	KEMET Corporation	SBT-0208	TOKIN Corporation	2263	35195957	Direct Match Corrected supplier
+SBT-0240	KEMET Corporation	SBT-0240	TOKIN Corporation	2263	35195958	Direct Match Corrected supplier
+ST-101A	KEMET Corporation	ST-101A	TOKIN Corporation	2263	35192434	Direct Match Corrected supplier
+ST-201A	KEMET Corporation	ST-201A	TOKIN Corporation	2263	35192443	Direct Match Corrected supplier
+ST-202A	KEMET Corporation	ST-202A	TOKIN Corporation	2263	35192445	Direct Match Corrected supplier
+ST-204A3	KEMET Corporation	ST-204A3	TOKIN Corporation	2263	35192448	Direct Match Corrected supplier
+ST-110AH	KEMET Corporation	ST-110AH	TOKIN Corporation	2263	35192438	Direct Match Corrected supplier
+ST-110BV	KEMET Corporation	ST-110BV	TOKIN Corporation	2263	35192441	Direct Match Corrected supplier
+SNT-S20T	KEMET Corporation	SNT-S20T	TOKIN Corporation	2263	27114804	Direct Match Corrected supplier
+B-6-31B	KEMET Corporation	B-6-31B	TOKIN Corporation	2263	35186408	Direct Match Corrected supplier
+GL-2030C3	KEMET Corporation	GL-2030C3	TOKIN Corporation	2263	41104003	Direct Match Corrected supplier
+GL-2060C3	KEMET Corporation	GL-2060C3	TOKIN Corporation	2263	41104004	Direct Match Corrected supplier
+GT-2050R	KEMET Corporation	GT-2050R	TOKIN Corporation	2263	27094566	Direct Match Corrected supplier
+LF-230N	KEMET Corporation	LF-230N	TOKIN Corporation	2263	42622227	Direct Match Corrected supplier
+MA-2013	KEMET Corporation	MA-2013	TOKIN Corporation	2263	35209856	Direct Match Corrected supplier
+GT-210J	KEMET Corporation	GT-210J	TOKIN Corporation	2263	35209810	Direct Match Corrected supplier
+GL-2100M	KEMET Corporation	GL-2100M	TOKIN Corporation	2263	23883011	Direct Match Corrected supplier
+SBT-0208T	KEMET Corporation	SBT-0208T	TOKIN Corporation	2263	26259923	Direct Match Corrected supplier
+SBT-0210T	KEMET Corporation	SBT-0210T	TOKIN Corporation	2263	26259927	Direct Match Corrected supplier
+SBT-0240T	KEMET Corporation	SBT-0240T	TOKIN Corporation	2263	26259921	Direct Match Corrected supplier
+SNT-D20T	KEMET Corporation	SNT-D20T	TOKIN Corporation	2263	27114798	Direct Match Corrected supplier
+SNT-D30TF	KEMET Corporation	SNT-D30TF	TOKIN Corporation	2263	27114807	Direct Match Corrected supplier
+SNT-S30T	KEMET Corporation	SNT-S30T	TOKIN Corporation	2263	27114802	Direct Match Corrected supplier
+BM2P189TF-E2	Kionix	BM2P189TF-E2	ROHM Semiconductor	1534	405476689	Direct Match Corrected supplier
+LZ4-00MD09-0000	"LED Engin, Inc"	LZ4-00MD09-0000	OSRAM	50677	421219475	Direct Match Corrected supplier
+LZ4-V4UV0R-0000	"LED Engin, Inc"	LZ4-V4UV0R-0000	OSRAM	50677	424143476	Direct Match Corrected supplier
+64151 H3 12V55W	LEDVANCE GmbH	64151 H3 12V55W	OSRAM	50677	45873816	Direct Match Corrected supplier
+64111 12V5W	LEDVANCE GmbH	64111 12V5W	OSRAM	50677	45873813	Direct Match Corrected supplier
+4008321329431	LEDVANCE GmbH	4008321329431	OSRAM	50677	62861136	Direct Match Corrected supplier
+4008321873743	LEDVANCE GmbH	4008321873743	OSRAM	50677	75679648	Direct Match Corrected supplier
+XBLNT	Legrand	XBLNT	Middle Atlantic Products	4132	417853816	Direct Match Corrected supplier
+AV9012BK	Legrand	AV9012BK	Middle Atlantic Products	4132	414186181	Direct Match Corrected supplier
+AV5002BK	Legrand	AV5002BK	Middle Atlantic Products	4132	417853716	Direct Match Corrected supplier
+MUBW15-12A7	Littelfuse	MUBW15-12A7	IXYS	1353	16987764	Direct Match Corrected supplier
+IXDI609SI	Littelfuse	IXDI609SI	IXYS	1353	42533905	Direct Match Corrected supplier
+IXDF604SI	Littelfuse	IXDF604SI	IXYS	1353	42533899	Direct Match Corrected supplier
+IXDN602SIA	Littelfuse	IXDN602SIA	IXYS	1353	43056696	Direct Match Corrected supplier
+VUO52-20NO1	Littelfuse	VUO52-20NO1	IXYS	1353	32524580	Direct Match Corrected supplier
+VUO34-16NO1	Littelfuse	VUO34-16NO1	IXYS	1353	18788750	Direct Match Corrected supplier
+IXHX40N150V1HV	Littelfuse	IXHX40N150V1HV	IXYS	1353	56664496	Direct Match Corrected supplier
+P51-200-G-B-I36-4.5V-000-000	SSI Controls Technologies	P51-200-G-B-I36-4.5V-000-000	Amphenol	1761	413912413	Direct Match Corrected supplier
+P51-50-A-B-I36-4.5V-000-000	SSI Controls Technologies	P51-50-A-B-I36-4.5V-000-000	Amphenol	1761	413444633	Direct Match Corrected supplier
+P51-100-G-G-P-4.5V-000-000	SSI Controls Technologies	P51-100-G-G-P-4.5V-000-000	Amphenol	1761	413912407	Direct Match Corrected supplier
+P51-15-G-UB-I36-20MA-000-000	SSI Controls Technologies	P51-15-G-UB-I36-20MA-000-000	Amphenol	1761	413912410	Direct Match Corrected supplier
+P51-10-G-UC-I36-5V-000-000	SSI Controls Technologies	P51-10-G-UC-I36-5V-000-000	Amphenol	1761	413912408	Direct Match Corrected supplier
+P51-200-G-B-I36-5V-000-000	SSI Controls Technologies	P51-200-G-B-I36-5V-000-000	Amphenol	1761	413912415	Direct Match Corrected supplier
+P51-200-G-A-I36-5V-000-000	SSI Controls Technologies	P51-200-G-A-I36-5V-000-000	Amphenol	1761	413912414	Direct Match Corrected supplier
+P51-100-G-B-I36-5V-000-000	SSI Controls Technologies	P51-100-G-B-I36-5V-000-000	Amphenol	1761	413912405	Direct Match Corrected supplier
+P51-50-A-A-P-20mA-000-000	SSI Controls Technologies	P51-50-A-A-P-20mA-000-000	Amphenol	1761	413444644	Direct Match Corrected supplier
+SDSDQAF4-256G-I	SanDisk	SDSDQAF4-256G-I	Western Digital	3523	413891872	Direct Match Corrected supplier
+SDINBDG4-64G-XI2	SanDisk	SDINBDG4-64G-XI2	Western Digital	3523	419774109	Direct Match Corrected supplier
+SDSDAF4-064G-I	SanDisk	SDSDAF4-064G-I	Western Digital	3523	414203707	Direct Match Corrected supplier
+SDSDAF4-512G-I	SanDisk	SDSDAF4-512G-I	Western Digital	3523	414203710	Direct Match Corrected supplier
+SDBPNPZ-256G-XI	SanDisk	SDBPNPZ-256G-XI	Western Digital	3523	419884427	Direct Match Corrected supplier
+SDBPNPZ-512G-XI	SanDisk	SDBPNPZ-512G-XI	Western Digital	3523	419884428	Direct Match Corrected supplier
+SDAPNUW-256G-1022	SanDisk	SDAPNUW-256G-1022	Western Digital	3523	407688766	Direct Match Corrected supplier
+SDBPTPZ-256G-XI	SanDisk	SDBPTPZ-256G-XI	Western Digital	3523	419884436	Direct Match Corrected supplier
+SDSDQED-016G-XI	SanDisk	SDSDQED-016G-XI	Western Digital	3523	407781167	Direct Match Corrected supplier
+SDSDQED-064G-XI	SanDisk	SDSDQED-064G-XI	Western Digital	3523	407781169	Direct Match Corrected supplier
+SDASB8Y-256G	SanDisk	SDASB8Y-256G	Western Digital	3523	407688816	Direct Match Corrected supplier
+SDASN8Y-256G	SanDisk	SDASN8Y-256G	Western Digital	3523	407688801	Direct Match Corrected supplier
+SDINBDA6-32G-XI1	SanDisk	SDINBDA6-32G-XI1	Western Digital	3523	416344023	Direct Match Corrected supplier
+SDINBDA6-64G-I1	SanDisk	SDINBDA6-64G-I1	Western Digital	3523	419743844	Direct Match Corrected supplier
+SDINBDA6-128G-I1	SanDisk	SDINBDA6-128G-I1	Western Digital	3523	424609652	Direct Match Corrected supplier
+SDINBDA6-128G-ZA	SanDisk	SDINBDA6-128G-ZA	Western Digital	3523	413891984	Direct Match Corrected supplier
+SDINBDA6-256G-XA	SanDisk	SDINBDA6-256G-XA	Western Digital	3523	413891985	Direct Match Corrected supplier
+SDINBDA6-64G-ZA	SanDisk	SDINBDA6-64G-ZA	Western Digital	3523	413891982	Direct Match Corrected supplier
+SDATB8Y-1T00	SanDisk	SDATB8Y-1T00	Western Digital	3523	407688829	Direct Match Corrected supplier
+SDATB8Y-512G	SanDisk	SDATB8Y-512G	Western Digital	3523	407688828	Direct Match Corrected supplier
